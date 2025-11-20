@@ -1,0 +1,210 @@
+{
+  "User": [
+    {
+      "id": "1",
+      "name": "Alice",
+      "email": "alice@example.com",
+      "password": "password123"
+    },
+    {
+      "id": "d958",
+      "name": "swees",
+      "mail": "swees",
+      "password": "$2b$10$/O4ONpPeEjqeMcjBgxJxHuzOTxP0nBE7/p47QwFkFykLUm2vk8Zaq"
+    },
+    {
+      "id": "a8d6",
+      "name": "pravien",
+      "mail": "rajmail",
+      "password": "$2b$10$NT596EmsJwfWL5qxwMc7XumVM8vZYEmpgQlPhVNm/.KeNlf.Zq0FK"
+    },
+    {
+      "id": "30aa",
+      "name": "pravien",
+      "mail": "pravien072005@gmail.com",
+      "password": "$2b$10$wGD2q/vZFmSYATDx9.u4geBkulsMN/4LT4dm7PSRJjHduFP8USum2"
+    },
+    {
+      "id": "0087",
+      "name": "pravien",
+      "mail": "raj@mail",
+      "password": "$2b$10$4/T0973emZ1I8vjAG0YqUeVZ7lgnUhCaxzXcAXwv8qekH9c16zxUW"
+    },
+    {
+      "id": "1ee7",
+      "name": "nambi",
+      "mail": "nambimail",
+      "password": "$2b$10$BJkA.xEg1kWR4MiznwMfBOq6EE88QB1jnOYfAYe.Cd5oiPHcSgKbq"
+    },
+    {
+      "id": "a78a",
+      "name": "petchi muthu",
+      "mail": "petchi@gmail.com",
+      "password": "$2b$10$TBvQyq9pA/Q9P1G3udAguOy7v9lTRCBZOp8hYTyTzDHC.5nqi2Uhy"
+    },
+    {
+      "id": "1782",
+      "name": "yyy",
+      "mail": "m",
+      "password": "$2b$10$lew3yOWx0nJk/b9kx7aFVeLZOB1mNWXQY8fXYbC/bg9NMEHAOGIuy"
+    },
+    {
+      "id": "fbd8",
+      "name": "joel",
+      "mail": "joel@mail",
+      "password": "$2b$10$/llq/PkBXrB4KNmOrPNi4uV8Jtw4UdJNqmMthxY7kVb3lDyAsTdky"
+    },
+    {
+      "id": "0ffe",
+      "name": "pravien",
+      "mail": "pravien",
+      "password": "$2b$10$tBi70L79KWH30F7CmuB33ekN33fjXlJFVSp3wBc9TZ/UwdTc7NnXK"
+    }
+  ],
+  "Home": [
+    {
+      "id": "1",
+      "name": "phone",
+      "price": "30000",
+      "img": "iphone.jpg"
+    },
+    {
+      "id": "2",
+      "name": "laptop",
+      "price": "40000",
+      "img": "lap.jpg"
+    },
+    {
+      "id": "3",
+      "name": "watch",
+      "price": "1000",
+      "img": "watch.jpg"
+    },
+    {
+      "id": "4",
+      "name": "ear buds",
+      "price": "2500",
+      "img": "ear.jpg"
+    },
+    {
+      "id": "5",
+      "name": "ear",
+      "price": "4000",
+      "img": "ear.jpg"
+    },
+    {
+      "id": "6",
+      "name": "speaker",
+      "price": "5000",
+      "img": "blue.jpg"
+    },
+    {
+      "id": "7",
+      "name": "tab",
+      "price": "60000",
+      "img": "tab.jpg"
+    },
+    {
+      "id": "8",
+      "name": "selfi",
+      "price": "4500",
+      "img": "selfi.jpg"
+    }
+  ],
+  "apple": [
+    {
+      "id": "1",
+      "name": "iphone",
+      "price": "65000",
+      "img": "apple1.jpeg"
+    },
+    {
+      "id": "2",
+      "name": "iphone",
+      "price": "75000",
+      "img": "apple2.jpeg"
+    },
+    {
+      "id": "3",
+      "name": "iphone",
+      "price": "35000",
+      "img": "apple3.jpeg"
+    },
+    {
+      "id": "4",
+      "name": "iphone",
+      "price": "55000",
+      "img": "apple4.jpeg"
+    },
+    {
+      "id": "5",
+      "name": "phone",
+      "price": "50000",
+      "img": "vivo1.jpeg"
+    },
+    {
+      "id": "6",
+      "name": "phone",
+      "price": "30000",
+      "img": "vivo2.jpeg"
+    },
+    {
+      "id": "7",
+      "name": "phone",
+      "price": "39999",
+      "img": "vivo3.jpeg"
+    },
+    {
+      "id": "8",
+      "name": "phone",
+      "price": "30000",
+      "img": "vivo4.jpeg"
+    }
+  ],
+  "todotask": [
+    {
+      "id": "1759731580095",
+      "taskName": "meeting 2pm"
+    },
+    {
+      "id": "1759731594034",
+      "taskName": "meeting at 4am"
+    },
+    {
+      "id": "1759731603753",
+      "taskName": "meeting on 9am"
+    },
+    {
+      "id": "1759731627823",
+      "taskName": "no meeting today"
+    },
+    {
+      "id": "1759735162539",
+      "taskName": "nambi"
+    },
+    {
+      "id": "1759817093888",
+      "taskName": "rajan"
+    },
+    {
+      "id": "1da9",
+      "taskName": "pravien on 10am"
+    },
+    {
+      "id": "4438",
+      "taskName": "pravien on 5am"
+    },
+    {
+      "id": "4209",
+      "taskName": "maya123"
+    },
+    {
+      "id": "0b93",
+      "taskName": "hello"
+    },
+    {
+      "id": "80cb",
+      "taskName": "hi"
+    }
+  ]
+}
