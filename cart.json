@@ -1,230 +1,262 @@
 {
   "cart": [],
-  "chocolate": [
+ "chocolate": [
   {
     "id": "1",
     "img": "/images/choco1.jpg",
     "bgimg": "/images/choco10.jpg",
     "name": " Cadbury Dairy Milk Silk Bubbly",
     "price": 209,
-    "description": "Dairy Milk Silk Bubble is a smooth milk chocolate filled with tiny air bubbles that melt instantly in your mouth.It’s light, creamy, and gives a soft, bubbly chocolate experience with every bite. "
+    "description": "Dairy Milk Silk Bubble is a smooth milk chocolate filled with tiny air bubbles that melt instantly in your mouth.It’s light, creamy, and gives a soft, bubbly chocolate experience with every bite. ",
+    "category": "chocolate"
   },
   {
     "id": "2",
     "img": "/images/choco2.jpeg",
     "name": "Cadbury Dairy Milk SilkHeart Blush",
     "price": 175,
-    "description": "Dairy Milk Silk Heart Blush is a rich milk chocolate with a soft strawberry-flavored heart inside.It’s made for gifting and adds a sweet romantic touch with its smooth, creamy texture."
+    "description": "Dairy Milk Silk Heart Blush is a rich milk chocolate with a soft strawberry-flavored heart inside.It’s made for gifting and adds a sweet romantic touch with its smooth, creamy texture.",
+    "category": "chocolate"
   },
   {
     "id": "3",
     "img": "/images/choco3.jpg",
     "name": "Cadbury Dairy Milk Mini Oreo",
     "price": 499,
-    "description": "Dairy Milk Oreo combines smooth milk chocolate with crunchy Oreo biscuit pieces.It’s a perfect mix of creamy and crunchy textures in every bite."
+    "description": "Dairy Milk Oreo combines smooth milk chocolate with crunchy Oreo biscuit pieces.It’s a perfect mix of creamy and crunchy textures in every bite.",
+    "category": "chocolate"
   },
   {
     "id": "4",
     "img": "/images/choco4.jpg",
     "name": "Chocolate Smooth Peanut Butter",
     "price": 849,
-    "description": "Peanut butter is a creamy or crunchy spread made from roasted peanuts.It’s rich in protein and gives a nutty, delicious flavor perfect for bread or snacks."
+    "description": "Peanut butter is a creamy or crunchy spread made from roasted peanuts.It’s rich in protein and gives a nutty, delicious flavor perfect for bread or snacks.",
+    "category": "chocolate"
   },
   {
     "id": "5",
     "img": "/images/choco5.jpg",
     "name": "Cadbury Five Star",
     "price": 20,
-    "description": "5 Star is a chewy chocolate bar filled with caramel and nougat.It’s sweet, sticky, and melts slowly, giving a long-lasting chocolatey taste."
+    "description": "5 Star is a chewy chocolate bar filled with caramel and nougat.It’s sweet, sticky, and melts slowly, giving a long-lasting chocolatey taste.",
+    "category": "chocolate"
   },
   {
     "id": "6",
     "img": "/images/choco6.jpg",
     "name": "Cadbury Five Star ",
     "price": 250,
-    "description": "5 Star is a chewy chocolate bar filled with caramel and nougat for a rich, lasting chocolate taste."
+    "description": "5 Star is a chewy chocolate bar filled with caramel and nougat for a rich, lasting chocolate taste.",
+    "category": "chocolate"
   },
   {
     "id": "7",
     "img": "/images/choco7.jpg",
     "name": "Milky Bar",
     "price": 20,
-    "description": "Milky Bar is a smooth and creamy white chocolate made from rich milk solids."
+    "description": "Milky Bar is a smooth and creamy white chocolate made from rich milk solids.",
+    "category": "chocolate"
   },
   {
     "id": "8",
     "img": "/images/choco8.jpg",
     "name": "Milky Bar",
     "price": 10,
-    "description": "Milky Bar is a rich, creamy white chocolate loved for its smooth, milky taste.It’s simple, sweet, and melts gently for a pure chocolate delight."
+    "description": "Milky Bar is a rich, creamy white chocolate loved for its smooth, milky taste.It’s simple, sweet, and melts gently for a pure chocolate delight.",
+    "category": "chocolate"
   },
   {
     "id": "9",
     "img": "/images/choco9.jpg",
     "name": "Nestly KitKat",
     "price": 40,
-    "description": "KitKat is a crispy wafer covered in smooth milk chocolate for a perfect crunchy bite."
+    "description": "KitKat is a crispy wafer covered in smooth milk chocolate for a perfect crunchy bite.",
+    "category": "chocolate"
   },
   {
     "id": "10",
     "img": "/images/choco10.jpg",
     "name": "Perk",
     "price": 10,
-    "description": "Perk is a light, crispy wafer coated with smooth chocolate for a quick, tasty treat."
+    "description": "Perk is a light, crispy wafer coated with smooth chocolate for a quick, tasty treat.",
+    "category": "chocolate"
   },
   {
     "id": "11",
     "img": "/images/Choco11.jpg",
     "name": "Munch",
     "price": 10,
-    "description": "Munch is a crunchy wafer bar covered in delicious chocolate for a fun, crispy bite."
+    "description": "Munch is a crunchy wafer bar covered in delicious chocolate for a fun, crispy bite.",
+    "category": "chocolate"
   },
   {
     "id": "12",
     "img": "/images/choco12.jpg",
     "name": "Nestly KitKat",
     "price": 20,
-    "description": "KitKat is a crispy wafer covered in smooth milk chocolate for a perfect crunchy bite."
+    "description": "KitKat is a crispy wafer covered in smooth milk chocolate for a perfect crunchy bite.",
+    "category": "chocolate"
   },
   {
     "id": "13",
     "img": "/images/choco13.jpg",
     "name": "Nestly KitKat",
     "price": 30,
-    "description": "KitKat is a crispy wafer covered in smooth milk chocolate for a perfect crunchy bite."
+    "description": "KitKat is a crispy wafer covered in smooth milk chocolate for a perfect crunchy bite.",
+    "category": "chocolate"
   },
   {
     "id": "14",
     "img": "/images/choco14.jpg",
     "name": "Nestly KitKat",
     "price": 99,
-    "description": "KitKat is a crispy wafer covered in smooth milk chocolate for a perfect crunchy bite."
+    "description": "KitKat is a crispy wafer covered in smooth milk chocolate for a perfect crunchy bite.",
+    "category": "chocolate"
   },
   {
     "id": "15",
     "img": "/images/choco15.jpg",
     "name": "Nestly KitKat",
     "price": 89,
-    "description": "KitKat is a crispy wafer covered in smooth milk chocolate for a perfect crunchy bite."
+    "description": "KitKat is a crispy wafer covered in smooth milk chocolate for a perfect crunchy bite.",
+    "category": "chocolate"
   },
   {
     "id": "16",
     "img": "/images/choco16.jpg",
     "name": "Ferroro Rocher",
     "price": 159,
-    "description": "Ferrero Rocher is a premium chocolate with a crispy wafer, creamy hazelnut filling, and a rich nutty coating."
+    "description": "Ferrero Rocher is a premium chocolate with a crispy wafer, creamy hazelnut filling, and a rich nutty coating.",
+    "category": "chocolate"
   },
   {
     "id": "17",
     "img": "/images/choco17.jpg",
     "name": "Ferroro Rocher",
     "price": 199,
-    "description": "Ferrero Rocher is a premium chocolate with a crispy wafer, creamy hazelnut filling, and a rich nutty coating."
+    "description": "Ferrero Rocher is a premium chocolate with a crispy wafer, creamy hazelnut filling, and a rich nutty coating.",
+    "category": "chocolate"
   },
   {
     "id": "18",
     "img": "/images/choco18.jpg",
     "name": "Ferroro Rocher",
     "price": 220,
-    "description": "Ferrero Rocher is a premium chocolate with a crispy wafer, creamy hazelnut filling, and a rich nutty coating."
+    "description": "Ferrero Rocher is a premium chocolate with a crispy wafer, creamy hazelnut filling, and a rich nutty coating.",
+    "category": "chocolate"
   },
   {
     "id": "19",
     "img": "/images/choco19.jpg",
     "name": "Ferroro Rocher",
     "price": 199,
-    "description": "Ferrero Rocher is a premium chocolate with a crispy wafer, creamy hazelnut filling, and a rich nutty coating."
+    "description": "Ferrero Rocher is a premium chocolate with a crispy wafer, creamy hazelnut filling, and a rich nutty coating.",
+    "category": "chocolate"
   },
   {
     "id": "20",
     "img": "/images/choco20.jpg",
     "name": "Amul Milk Chocolate",
     "price": 99,
-    "description": "Amul Milk Chocolate is a smooth and creamy treat made from rich cocoa and pure milk solids."
+    "description": "Amul Milk Chocolate is a smooth and creamy treat made from rich cocoa and pure milk solids.",
+    "category": "chocolate"
   },
   {
     "id": "21",
     "img": "/images/choco21.jpg",
     "name": "Amul Happy Birthday Chocolate",
     "price": 89,
-    "description": "Amul Milk Chocolate is a smooth and creamy treat made from rich cocoa and pure milk solids."
+    "description": "Amul Milk Chocolate is a smooth and creamy treat made from rich cocoa and pure milk solids.",
+    "category": "chocolate"
   },
   {
     "id": "22",
     "img": "/images/choco22.jpg",
     "name": "Galaxy",
     "price": 89,
-    "description": "Galaxy is a silky smooth milk chocolate known for its rich, melt-in-the-mouth texture."
+    "description": "Galaxy is a silky smooth milk chocolate known for its rich, melt-in-the-mouth texture.",
+    "category": "chocolate"
   },
   {
     "id": "23",
     "img": "/images/choco23.jpg",
     "name": "Galaxy",
     "price": 99,
-    "description": "Galaxy is a silky smooth milk chocolate known for its rich, melt-in-the-mouth texture."
+    "description": "Galaxy is a silky smooth milk chocolate known for its rich, melt-in-the-mouth texture.",
+    "category": "chocolate"
   },
   {
     "id": "24",
     "img": "/images/choco24.jpg",
     "name": "Galaxy",
     "price": 79,
-    "description": "Galaxy is a silky smooth milk chocolate known for its rich, melt-in-the-mouth texture."
+    "description": "Galaxy is a silky smooth milk chocolate known for its rich, melt-in-the-mouth texture.",
+    "category": "chocolate"
   },
   {
     "id": "25",
     "img": "/images/choco25.jpg",
     "name": "Galaxy",
     "price": 99,
-    "description": "Galaxy is a silky smooth milk chocolate known for its rich, melt-in-the-mouth texture."
+    "description": "Galaxy is a silky smooth milk chocolate known for its rich, melt-in-the-mouth texture.",
+    "category": "chocolate"
   },
   {
     "id": "26",
     "img": "/images/choco26.jpg",
     "name": "Hersheys",
     "price": 99,
-    "description": "Hershey’s is a classic American milk chocolate known for its rich, creamy, and slightly tangy flavor."
+    "description": "Hershey’s is a classic American milk chocolate known for its rich, creamy, and slightly tangy flavor.",
+    "category": "chocolate"
   },
   {
     "id": "27",
     "img": "/images/choco27.jpg",
     "name": "BarOne",
     "price": 59,
-    "description": "Bar One is a chewy chocolate bar filled with caramel and nougat, giving a rich energy-packed taste."
+    "description": "Bar One is a chewy chocolate bar filled with caramel, nougat, giving a rich energy-packed taste.",
+    "category": "chocolate"
   },
   {
     "id": "28",
     "img": "/images/choco28.jpg",
     "name": "KinderJoy Choconut Minis",
     "price": 59,
-    "description": "Kinder Joy ChocoNut Minis are bite-sized treats with creamy chocolate, crispy layers, and a nutty flavor blend."
+    "description": "Kinder Joy ChocoNut Minis are bite-sized treats with creamy chocolate, crispy layers, and a nutty flavor blend.",
+    "category": "chocolate"
   },
   {
     "id": "29",
     "img": "/images/choco29.jpg",
     "name": "Kinderjoy",
     "price": 55,
-    "description": "Kinder Joy is a fun chocolate treat with a creamy, crunchy filling and a surprise toy inside."
+    "description": "Kinder Joy is a fun chocolate treat with a creamy, crunchy filling and a surprise toy inside.",
+    "category": "chocolate"
   },
   {
     "id": "30",
     "img": "/images/choco30.jpg",
     "name": "Bounty",
     "price": 30,
-    "description": "Bounty is a soft, moist coconut-filled bar coated in rich milk chocolate for a tropical sweet taste."
+    "description": "Bounty is a soft, moist coconut-filled bar coated in rich milk chocolate for a tropical sweet taste.",
+    "category": "chocolate"
   },
   {
     "id": "31",
     "img": "/images/choco31.jpg",
     "name": "Cadbury Dairy Milk oreo",
     "price": 49,
-    "description": "Dairy Milk Oreo is a smooth milk chocolate bar filled with crunchy Oreo biscuit pieces for a creamy, crispy delight."
+    "description": "Dairy Milk Oreo is a smooth milk chocolate bar filled with crunchy Oreo biscuit pieces for a creamy, crispy delight.",
+    "category": "chocolate"
   },
   {
     "id": "32",
     "img": "/images/choco32.jpg",
     "name": "Snickers",
     "price": 35,
-    "description": "Snickers is a chewy chocolate bar packed with caramel, nougat, and roasted peanuts for a rich, nutty flavor."
+    "description": "Snickers is a chewy chocolate bar packed with caramel, nougat, and roasted peanuts for a rich, nutty flavor.",
+    "category": "chocolate"
   }
 ],
  "biscuits": [
@@ -236,7 +268,8 @@
     "bgimg2": "/images/bgbiscuit1,3.jpeg",
     "name": "Britannia Nutri Choice Biscut",
     "description": "Britannia NutriChoice Digestive Biscuits are fibre-rich biscuits packed with the richness of wheat flour (atta) and bran. With every bite, you experience the coarseness of this fibre-rich biscuit. These Digestive cookies are baked to precision, making them a great snack option. Available in a large pack with 50g free. Go ahead and make a good choice.",
-    "price": 20
+    "price": 20,
+    "category": "biscuits"
   },
   {
     "id": "34",
@@ -246,7 +279,8 @@
     "bgimg2": "/images/bgbiscuit2.3.jpeg",
     "name": "Good Day Biscuit",
     "price": 30,
-    "description": "Good Day is a crunchy, buttery biscuit loaded with nuts for a rich and joyful taste."
+    "description": "Good Day is a crunchy, buttery biscuit loaded with nuts for a rich and joyful taste.",
+    "category": "biscuits"
   },
   {
     "id": "35",
@@ -256,7 +290,8 @@
     "bgimg2": "/images/bgbiscuit3.2.jpeg",
     "name": "Bour Bon",
     "description": "Bourbon is a chocolate cream-filled biscuit coated with sugar crystals for a rich, crunchy chocolate treat.",
-    "price": 10
+    "price": 10,
+    "category": "biscuits"
   },
   {
     "id": "36",
@@ -266,7 +301,8 @@
     "bgimg2": "/images/bgbiscuit4.3.jpg",
     "name": "Treat Cream Biscuit",
     "price": 10,
-    "description": ""
+    "description": "",
+    "category": "biscuits"
   },
   {
     "id": "37",
@@ -275,7 +311,8 @@
     "bgimg1": "/images/bgbiscuit5.2.jpg",
     "bgimg2": "/images/bgbiscuit5.3.jpg",
     "price": 20,
-    "description": "Treat Cream Biscuit is a crunchy cookie filled with smooth, flavored cream for a sweet and fun bite."
+    "description": "Treat Cream Biscuit is a crunchy cookie filled with smooth, flavored cream for a sweet and fun bite.",
+    "category": "biscuits"
   },
   {
     "id": "38",
@@ -285,7 +322,8 @@
     "bgimg2": "/images/bgbiscuit6.3.jpg",
     "name": "Jim Jam",
     "price": 10,
-    "description": "Jim Jam is a sweet cream biscuit topped with jam and sugar crystals for a fruity, crunchy delight"
+    "description": "Jim Jam is a sweet cream biscuit topped with jam and sugar crystals for a fruity, crunchy delight",
+    "category": "biscuits"
   },
   {
     "id": "39",
@@ -295,7 +333,8 @@
     "bgimg2": "/images/bgbiscuit7.3.jpg",
     "name": "Britannia Milk Bikis",
     "price": 40,
-    "description": "Milk Bikis is a crunchy biscuit made with milk goodness, giving a tasty and energizing bite."
+    "description": "Milk Bikis is a crunchy biscuit made with milk goodness, giving a tasty and energizing bite.",
+    "category": "biscuits"
   },
   {
     "id": "40",
@@ -305,7 +344,8 @@
     "bgimg2": "/images/bgbiscuit8.3.jpeg",
     "name": "BourBon",
     "price": 10,
-    "description": "Bourbon is a chocolate cream-filled biscuit coated with sugar crystals for a rich, crunchy chocolate treat."
+    "description": "Bourbon is a chocolate cream-filled biscuit coated with sugar crystals for a rich, crunchy chocolate treat.",
+    "category": "biscuits"
   },
   {
     "id": "41",
@@ -315,7 +355,8 @@
     "bgimg2": "/images/bgbiscuit2.3.jpeg",
     "name": "Britannia Milk Bikis",
     "price": 10,
-    "description": "Milk Bikis is a crunchy biscuit made with milk goodness, giving a tasty and energizing bite."
+    "description": "Milk Bikis is a crunchy biscuit made with milk goodness, giving a tasty and energizing bite.",
+    "category": "biscuits"
   },
   {
     "id": "42",
@@ -325,7 +366,8 @@
     "bgimg2": "/images/bgbiscuit10.3.jpeg",
     "name": "50 50 Potato Biscuit",
     "price": 10,
-    "description": "50 50 Potazo is a crispy, salty biscuit with a light potato flavor for a perfect snack-time crunch."
+    "description": "50 50 Potazo is a crispy, salty biscuit with a light potato flavor for a perfect snack-time crunch.",
+    "category": "biscuits"
   },
   {
     "id": "43",
@@ -335,7 +377,8 @@
     "bgimg2": "/images/bgbiscuit13.3.jpeg",
     "price": 99,
     "name": "Nutri Choice",
-    "description": "Nutri Choice is a healthy biscuit made with fiber and whole grains for a light, nutritious snack."
+    "description": "Nutri Choice is a healthy biscuit made with fiber and whole grains for a light, nutritious snack.",
+    "category": "biscuits"
   },
   {
     "id": "44",
@@ -345,7 +388,8 @@
     "bgimg2": "/images/bgbiscuit12.3.jpeg",
     "price": 40,
     "name": "MomsMagic",
-    "description": "Mom’s Magic is a rich, buttery biscuit with a warm aroma and sweet, comforting taste."
+    "description": "Mom’s Magic is a rich, buttery biscuit with a warm aroma and sweet, comforting taste.",
+    "category": "biscuits"
   },
   {
     "id": "45",
@@ -355,7 +399,8 @@
     "bgimg2": "/images/bgbiscuit13.3.jpeg",
     "price": 20,
     "name": "Rusk",
-    "description": "Rusk is a crispy, twice-baked bread snack perfect for dipping in tea or coffee."
+    "description": "Rusk is a crispy, twice-baked bread snack perfect for dipping in tea or coffee.",
+    "category": "biscuits"
   },
   {
     "id": "46",
@@ -365,7 +410,8 @@
     "bgimg2": "/images/bgbiscuit14.3.jpeg",
     "price": 99,
     "name": "Britannia Toast",
-    "description": "Rusk is a crispy, twice-baked bread snack perfect for dipping in tea or coffee."
+    "description": "Rusk is a crispy, twice-baked bread snack perfect for dipping in tea or coffee.",
+    "category": "biscuits"
   },
   {
     "id": "47",
@@ -375,7 +421,8 @@
     "bgimg2": "/images/bgbiscuit15.3.jpeg",
     "price": 20,
     "name": "Rusk",
-    "description": "Rusk is a crispy, twice-baked bread snack perfect for dipping in tea or coffee."
+    "description": "Rusk is a crispy, twice-baked bread snack perfect for dipping in tea or coffee.",
+    "category": "biscuits"
   },
   {
     "id": "48",
@@ -385,7 +432,8 @@
     "bgimg2": "/images/bgbiscuit16.3.jpeg",
     "name": "Cake",
     "price": 20,
-    "description": "Rusk is a crispy, twice-baked bread snack perfect for dipping in tea or coffee."
+    "description": "Rusk is a crispy, twice-baked bread snack perfect for dipping in tea or coffee.",
+    "category": "biscuits"
   },
   {
     "id": "49",
@@ -395,7 +443,8 @@
     "bgimg2": "/images/bgbiscuit17.3.jpeg",
     "name": "Dark Fantcy",
     "price": 20,
-    "description": "Dark Fantasy is a premium chocolate biscuit filled with rich, molten choco cream for a luxurious treat."
+    "description": "Dark Fantasy is a premium chocolate biscuit filled with rich, molten choco cream for a luxurious treat.",
+    "category": "biscuits"
   },
   {
     "id": "50",
@@ -405,7 +454,8 @@
     "bgimg2": "/images/bgbiscuit18.3.jpg",
     "price": 30,
     "name": "Waffers",
-    "description": "Wafer is a light, crispy layered snack often coated or filled with sweet chocolate or cream."
+    "description": "Wafer is a light, crispy layered snack often coated or filled with sweet chocolate or cream.",
+    "category": "biscuits"
   },
   {
     "id": "51",
@@ -415,7 +465,8 @@
     "bgimg2": "/images/bgbiscuit19.3.jpg",
     "name": "Treat Chocolate is a crunchy biscuit filled with smooth chocolate cream for a sweet, chocolaty bite.",
     "price": 20,
-    "description": "Treat Chocolate is a crunchy biscuit filled with smooth chocolate cream for a sweet, chocolaty bite."
+    "description": "Treat Chocolate is a crunchy biscuit filled with smooth chocolate cream for a sweet, chocolaty bite.",
+    "category": "biscuits"
   },
   {
     "id": "52",
@@ -425,7 +476,8 @@
     "bgimg2": "/images/bgbiscuit20.3.jpg",
     "name": "Happy Happy Biscuit",
     "price": 10,
-    "description": "Happy Happy is a crunchy biscuit topped with colorful choco chips for a fun and sweet treat."
+    "description": "Happy Happy is a crunchy biscuit topped with colorful choco chips for a fun and sweet treat.",
+    "category": "biscuits"
   },
   {
     "id": "53",
@@ -435,7 +487,8 @@
     "bgimg2": "/images/bgbiscuit21.3.jpeg",
     "name": "Happy Happy",
     "price": 40,
-    "description": "Happy Happy is a crunchy biscuit topped with colorful choco chips for a fun and sweet treat."
+    "description": "Happy Happy is a crunchy biscuit topped with colorful choco chips for a fun and sweet treat.",
+    "category": "biscuits"
   },
   {
     "id": "54",
@@ -445,7 +498,8 @@
     "bgimg2": "/images/bgbiscuit22.3.webp",
     "name": "Happy Happy Mix",
     "price": 20,
-    "description": "Happy Happy is a crunchy biscuit topped with colorful choco chips for a fun and sweet treat."
+    "description": "Happy Happy is a crunchy biscuit topped with colorful choco chips for a fun and sweet treat.",
+    "category": "biscuits"
   },
   {
     "id": "55",
@@ -455,7 +509,8 @@
     "bgimg2": "/images/bgbiscuit24.3.png",
     "name": "Happy Happy Mix",
     "description": "Happy Happy is a crunchy biscuit topped with colorful choco chips for a fun and sweet treat.",
-    "price": 20
+    "price": 20,
+    "category": "biscuits"
   },
   {
     "id": "56",
@@ -465,7 +520,8 @@
     "bgimg2": "/images/bgbiscuit24.3.png",
     "name": "ParleG",
     "description": "Parle-G is a classic glucose biscuit known for its mild sweetness and energy-boosting taste.",
-    "price": 99
+    "price": 99,
+    "category": "biscuits"
   },
   {
     "id": "57",
@@ -475,7 +531,8 @@
     "bgimg2": "/images/bgbiscuit25.3.jpeg",
     "name": "ParleG",
     "description": "Parle-G is a classic glucose biscuit known for its mild sweetness and energy-boosting taste.",
-    "price": 3
+    "price": 3,
+    "category": "biscuits"
   },
   {
     "id": "58",
@@ -485,7 +542,8 @@
     "bgimg2": "/images/bgbiscuit1,3.jpeg",
     "name": "Oreo",
     "description": "Oreo Biscuit is a crunchy chocolate cookie with a smooth, sweet cream filling in the center.",
-    "price": 40
+    "price": 40,
+    "category": "biscuits"
   },
   {
     "id": "59",
@@ -495,7 +553,8 @@
     "bgimg2": "/images/bgbiscuit27.3.jpg",
     "name": "Oreo Biscuit",
     "description": "Oreo Biscuit is a crunchy chocolate cookie with a smooth, sweet cream filling in the center.",
-    "price": 199
+    "price": 199,
+    "category": "biscuits"
   },
   {
     "id": "60",
@@ -505,7 +564,8 @@
     "bgimg2": "/images/bgbiscuit28.3.webp",
     "name": "Unibic Biscuit",
     "description": "Unibic is a rich, crunchy cookie brand known for its buttery texture and wide range of flavors.",
-    "price": 40
+    "price": 40,
+    "category": "biscuits"
   },
   {
     "id": "61",
@@ -515,7 +575,8 @@
     "bgimg2": "/images/bgbiscuit29.3.webp",
     "name": "Unibic Nuts",
     "description": "Unibic is a rich, crunchy cookie brand known for its buttery texture and wide range of flavors",
-    "price": 20
+    "price": 20,
+    "category": "biscuits"
   },
   {
     "id": "62",
@@ -524,17 +585,19 @@
     "bgimg1": "/images/bgbiscuit30.2.webp",
     "bgimg2": "/images/bgbiscuit30.3.webp",
     "name": "Unibic",
-    "price": "199rs"
+    "price": "199rs",
+    "category": "biscuits"
   }
 ],
-  "dairy": [
+ "dairy": [
   {
     "id": "63",
     "img": "/images/dairy1.jpg",
     "bgimg": "/images/bgdairy1.1.jpg",
     "price": 38,
     "name": "Aarokiya milk",
-    "description": "Aarokiya Milk is pure, fresh cow’s milk known for its rich taste and high nutritional value."
+    "description": "Aarokiya Milk is pure, fresh cow’s milk known for its rich taste and high nutritional value.",
+    "category": "dairy"
   },
   {
     "id": "64",
@@ -542,7 +605,8 @@
     "bgimg": "/images/bgdairy2.1.jpg",
     "price": 40,
     "name": "Aarokiya milk",
-    "description": "Aarokiya Milk is pure, fresh cow’s milk known for its rich taste and high nutritional value."
+    "description": "Aarokiya Milk is pure, fresh cow’s milk known for its rich taste and high nutritional value.",
+    "category": "dairy"
   },
   {
     "id": "65",
@@ -550,7 +614,8 @@
     "bgimg": "/images/dairy3.1.jpg",
     "price": 40,
     "name": "Hatsun curd",
-    "description": "Hatsun Curd is thick, creamy, and made from pure milk for a fresh and natural taste."
+    "description": "Hatsun Curd is thick, creamy, and made from pure milk for a fresh and natural taste.",
+    "category": "dairy"
   },
   {
     "id": "66",
@@ -558,7 +623,8 @@
     "bgimg": "/images/dairy4.1.jpg",
     "price": "50rs",
     "name": "Hatsun curd",
-    "description": "Hatsun Curd is thick, creamy, and made from pure milk for a fresh and natural taste."
+    "description": "Hatsun Curd is thick, creamy, and made from pure milk for a fresh and natural taste.",
+    "category": "dairy"
   },
   {
     "id": "67",
@@ -566,7 +632,8 @@
     "bgimg": "/images/dairy5.1.jpg",
     "price": 79,
     "name": "Hatsun Paneer",
-    "description": "Hatsun Paneer is soft, fresh, and rich in protein, perfect for making delicious Indian dishes."
+    "description": "Hatsun Paneer is soft, fresh, and rich in protein, perfect for making delicious Indian dishes.",
+    "category": "dairy"
   },
   {
     "id": "68",
@@ -574,7 +641,8 @@
     "bgimg": "/images/dairy6.1.jpg",
     "price": 35,
     "name": "Hatsun Butter",
-    "description": "Butter is a smooth, creamy dairy product made from churned milk or cream, adding rich flavor to food."
+    "description": "Butter is a smooth, creamy dairy product made from churned milk or cream, adding rich flavor to food.",
+    "category": "dairy"
   },
   {
     "id": "69",
@@ -582,7 +650,8 @@
     "bgimg": "/images/dairy7.1.jpg",
     "price": 20,
     "name": "Hatsun Butter Milk",
-    "description": "Buttermilk is a cool, tangy drink made from curd, perfect for digestion and refreshment."
+    "description": "Buttermilk is a cool, tangy drink made from curd, perfect for digestion and refreshment.",
+    "category": "dairy"
   },
   {
     "id": "70",
@@ -590,7 +659,8 @@
     "bgimg": "/images/dairy8.1.jpg",
     "price": 80,
     "name": "Hatsun ghee",
-    "description": "Ghee is pure clarified butter known for its rich aroma, golden color, and traditional Indian flavor."
+    "description": "Ghee is pure clarified butter known for its rich aroma, golden color, and traditional Indian flavor.",
+    "category": "dairy"
   },
   {
     "id": "71",
@@ -598,7 +668,8 @@
     "bgimg": "/images/dairy9.1.jpg",
     "price": 99,
     "name": "Ghee",
-    "description": "Ghee is pure clarified butter known for its rich aroma, golden color, and traditional Indian flavor."
+    "description": "Ghee is pure clarified butter known for its rich aroma, golden color, and traditional Indian flavor.",
+    "category": "dairy"
   },
   {
     "id": "72",
@@ -606,7 +677,8 @@
     "bgimg": "/images/dairy10.1.jpg",
     "price": 35,
     "name": "Aavin Milk",
-    "description": "Aavin Milk is fresh, pure cow’s milk known for its quality, rich taste, and nutrition."
+    "description": "Aavin Milk is fresh, pure cow’s milk known for its quality, rich taste, and nutrition.",
+    "category": "dairy"
   },
   {
     "id": "73",
@@ -614,7 +686,8 @@
     "bgimg": "/images/dairy11.1.jpg",
     "price": 30,
     "name": "Aavin Curd",
-    "description": "Aavin Curd is thick, fresh, and creamy, made from pure milk for a natural homemade taste."
+    "description": "Aavin Curd is thick, fresh, and creamy, made from pure milk for a natural homemade taste.",
+    "category": "dairy"
   },
   {
     "id": "74",
@@ -622,7 +695,8 @@
     "bgimg": "/images/dairy12.1.jpg",
     "price": 59,
     "name": "Hatsun Butter Milk",
-    "description": "Hatsun Buttermilk is a cool, refreshing drink made from pure curd with natural spices."
+    "description": "Hatsun Buttermilk is a cool, refreshing drink made from pure curd with natural spices.",
+    "category": "dairy"
   },
   {
     "id": "75",
@@ -630,7 +704,8 @@
     "bgimg": "/images/dairy13.1.jpg",
     "price": 40,
     "name": "Hatsun Yogurt",
-    "description": "Hatsun Yogurt is thick, creamy, and made from pure, fresh milk for a wholesome taste."
+    "description": "Hatsun Yogurt is thick, creamy, and made from pure, fresh milk for a wholesome taste.",
+    "category": "dairy"
   },
   {
     "id": "76",
@@ -638,7 +713,8 @@
     "bgimg": "/images/dairy14.1.jpg",
     "price": 40,
     "name": "Hatsun Butter Milk",
-    "description": "Hatsun Sweet Curd is rich, creamy, and perfectly sweetened for a delicious dairy treat."
+    "description": "Hatsun Sweet Curd is rich, creamy, and perfectly sweetened for a delicious dairy treat.",
+    "category": "dairy"
   },
   {
     "id": "77",
@@ -646,7 +722,8 @@
     "bgimg": "/images/dairy15.jpg",
     "price": 80,
     "name": "GRB ghee",
-    "description": "GRB Ghee is pure, aromatic, and made from fresh butter for authentic homemade flavor."
+    "description": "GRB Ghee is pure, aromatic, and made from fresh butter for authentic homemade flavor.",
+    "category": "dairy"
   },
   {
     "id": "78",
@@ -654,7 +731,8 @@
     "bgimg": "/images/dairy16.1.jpg",
     "price": 20,
     "name": "Nestly Everyday Milk Powder",
-    "description": "Nestlé Milk Powder is rich, creamy, and packed with essential nutrients for everyday energy."
+    "description": "Nestlé Milk Powder is rich, creamy, and packed with essential nutrients for everyday energy.",
+    "category": "dairy"
   },
   {
     "id": "79",
@@ -662,7 +740,8 @@
     "bgimg": "/images/dairy17.1.jpg",
     "price": 40,
     "name": "Amul Lassi",
-    "description": "Amul Lassi is a refreshing, sweetened yogurt drink with a smooth and creamy taste."
+    "description": "Amul Lassi is a refreshing, sweetened yogurt drink with a smooth and creamy taste.",
+    "category": "dairy"
   },
   {
     "id": "80",
@@ -670,7 +749,8 @@
     "bgimg": "/images/dairy18.1.jpg",
     "price": 120,
     "name": "Custerd Powder",
-    "description": "Custard Powder is a smooth dessert mix used to make creamy, delicious custards easily."
+    "description": "Custard Powder is a smooth dessert mix used to make creamy, delicious custards easily.",
+    "category": "dairy"
   },
   {
     "id": "81",
@@ -678,7 +758,8 @@
     "bgimg": "/images/dairy19.1.jpg",
     "price": 149,
     "name": "Britannia cheese Spread",
-    "description": "Britannia Cheese Spread is smooth, creamy, and packed with cheesy flavor for instant snacking."
+    "description": "Britannia Cheese Spread is smooth, creamy, and packed with cheesy flavor for instant snacking.",
+    "category": "dairy"
   },
   {
     "id": "82",
@@ -686,7 +767,8 @@
     "bgimg": "/images/dairy20.1.jpg",
     "price": 199,
     "name": "Amul Milky Mist",
-    "description": "Amul Milky Mist is rich, creamy milk made from pure, fresh cow’s milk for everyday nutrition."
+    "description": "Amul Milky Mist is rich, creamy milk made from pure, fresh cow’s milk for everyday nutrition.",
+    "category": "dairy"
   },
   {
     "id": "83",
@@ -694,7 +776,8 @@
     "bgimg": "/images/dairy21.1.jpg",
     "price": 99,
     "name": "Amul Milky Cream",
-    "description": "Amul Milky Mist is rich, creamy milk made from pure, fresh cow’s milk for everyday nutrition."
+    "description": "Amul Milky Mist is rich, creamy milk made from pure, fresh cow’s milk for everyday nutrition.",
+    "category": "dairy"
   },
   {
     "id": "84",
@@ -702,7 +785,8 @@
     "bgimg": "/images/dairy22.1.jpg",
     "price": 299,
     "name": "Clotted Cream",
-    "description": "Clotted Cream is a thick, rich cream with a smooth texture and mildly sweet flavor."
+    "description": "Clotted Cream is a thick, rich cream with a smooth texture and mildly sweet flavor.",
+    "category": "dairy"
   },
   {
     "id": "85",
@@ -710,7 +794,8 @@
     "bgimg": "/images/dairy23.1.jpg",
     "price": 55,
     "name": "Toned Milk",
-    "description": "Toned Milk is nutrient-rich milk with reduced fat, offering a healthy and balanced option."
+    "description": "Toned Milk is nutrient-rich milk with reduced fat, offering a healthy and balanced option.",
+    "category": "dairy"
   },
   {
     "id": "86",
@@ -718,7 +803,8 @@
     "bgimg": "/images/dairy24.1.jpg",
     "price": 40,
     "name": "Hatsun Sweet Curd",
-    "description": "Hatsun Sweet Curd is rich, creamy, and perfectly sweetened for a delicious dairy treat."
+    "description": "Hatsun Sweet Curd is rich, creamy, and perfectly sweetened for a delicious dairy treat.",
+    "category": "dairy"
   }
 ],
   "dal": [
@@ -727,168 +813,192 @@
     "img": "/images/dal1.jpg",
     "price": 40,
     "name": "TATA Sampann Chana Dal",
-    "description": "TATA Sampann Chana Dal is unpolished, protein-rich, and packed with natural nutrients for wholesome meals."
+    "description": "TATA Sampann Chana Dal is unpolished, protein-rich, and packed with natural nutrients for wholesome meals.",
+    "category": "dal"
   },
   {
     "id": "88",
     "img": "/images/dal2.jpg",
     "price": 80,
     "name": "TATA Sampann Kala Chana",
-    "description": "TATA Sampann Kala Chana is unpolished, protein-packed, and rich in fiber for healthy, hearty meals."
+    "description": "TATA Sampann Kala Chana is unpolished, protein-packed, and rich in fiber for healthy, hearty meals.",
+    "category": "dal"
   },
   {
     "id": "89",
     "img": "/images/dal3.jpg",
     "price": 109,
     "name": "Swastik Toor Dal",
-    "description": "Swastik Toor Dal is pure, protein-rich, and naturally tasty for everyday nutritious cooking."
+    "description": "Swastik Toor Dal is pure, protein-rich, and naturally tasty for everyday nutritious cooking.",
+    "category": "dal"
   },
   {
     "id": "90",
     "img": "/images/dal4.jpg",
     "price": 149,
     "name": "Vijay Toor Dal",
-    "description": "Vijay Toor Dal is premium-quality, protein-rich, and delivers authentic taste with every wholesome meal."
+    "description": "Vijay Toor Dal is premium-quality, protein-rich, and delivers authentic taste with every wholesome meal.",
+    "category": "dal"
   },
   {
     "id": "91",
     "img": "/images/dal5.jpg",
     "price": 139,
     "name": "TATA Sampann Unpolished Moong Dal",
-    "description": "TATA Sampann Unpolished Moong Dal is protein-rich, unpolished, and packed with natural goodness for healthy meals."
+    "description": "TATA Sampann Unpolished Moong Dal is protein-rich, unpolished, and packed with natural goodness for healthy meals.",
+    "category": "dal"
   },
   {
     "id": "92",
     "img": "/images/dal6.jpg",
     "price": 50,
     "name": "Value Life Fried Gram",
-    "description": "Value Life Fried Gram is crispy, protein-rich, and perfect for healthy snacking or cooking."
+    "description": "Value Life Fried Gram is crispy, protein-rich, and perfect for healthy snacking or cooking.",
+    "category": "dal"
   },
   {
     "id": "93",
     "img": "/images/dal7.jpg",
     "price": 109,
     "name": "TATA Sampann Masoor Dal",
-    "description": "TATA Sampann Masoor Dal is unpolished, protein-rich, and naturally flavorful for wholesome everyday meals."
+    "description": "TATA Sampann Masoor Dal is unpolished, protein-rich, and naturally flavorful for wholesome everyday meals.",
+    "category": "dal"
   },
   {
     "id": "94",
     "img": "/images/dal8.jpg",
     "price": 129,
     "name": "TATA Sampann Moong Dal",
-    "description": "TATA Sampann Moong Dal is unpolished, protein-rich, and packed with natural nutrients for healthy cooking."
+    "description": "TATA Sampann Moong Dal is unpolished, protein-rich, and packed with natural nutrients for healthy cooking.",
+    "category": "dal"
   },
   {
     "id": "95",
     "img": "/images/dal9.jpg",
     "price": 89,
     "name": "TATA Sampann Rajma (Chitra)",
-    "description": "TATA Sampann Rajma (Chitra) is unpolished, protein-rich, and delivers authentic taste with natural goodness."
+    "description": "TATA Sampann Rajma (Chitra) is unpolished, protein-rich, and delivers authentic taste with natural goodness.",
+    "category": "dal"
   },
   {
     "id": "96",
     "img": "/images/dal10.jpg",
     "price": 135,
     "name": "Brown Chick Peas",
-    "description": "Brown Chickpeas are protein-rich, fiber-packed, and perfect for nutritious and hearty meals."
+    "description": "Brown Chickpeas are protein-rich, fiber-packed, and perfect for nutritious and hearty meals.",
+    "category": "dal"
   },
   {
     "id": "97",
     "img": "/images/dal11.jpg",
     "price": 199,
     "name": "Angur Urad Whole",
-    "description": "Angur Urad Whole is premium-quality, protein-rich, and ideal for making nutritious traditional dishes."
+    "description": "Angur Urad Whole is premium-quality, protein-rich, and ideal for making nutritious traditional dishes.",
+    "category": "dal"
   },
   {
     "id": "98",
     "img": "/images/dal12.jpg",
     "price": 120,
     "name": "Golden Harvest Urad Dal",
-    "description": "Golden Harvest Urad Dal is protein-rich, unpolished, and perfect for soft, flavorful Indian dishes."
+    "description": "Golden Harvest Urad Dal is protein-rich, unpolished, and perfect for soft, flavorful Indian dishes.",
+    "category": "dal"
   },
   {
     "id": "99",
     "img": "/images/dal13.jpg",
     "price": 135,
     "name": "Mark Premium Urad Dal",
-    "description": "Mark Premium Urad Dal is high-quality, protein-rich, and ideal for delicious, wholesome meals."
+    "description": "Mark Premium Urad Dal is high-quality, protein-rich, and ideal for delicious, wholesome meals.",
+    "category": "dal"
   },
   {
     "id": "100",
     "img": "/images/dal14.jpg",
     "price": 149,
     "name": "Rk Green Gram",
-    "description": "RK Green Gram is fresh, protein-rich, and perfect for light, healthy, and nutritious dishes."
+    "description": "RK Green Gram is fresh, protein-rich, and perfect for light, healthy, and nutritious dishes.",
+    "category": "dal"
   },
   {
     "id": "101",
     "img": "/images/dal15.jpg",
     "price": 159,
     "name": "Vijay Fried Gram",
-    "description": "Vijay Fried Gram is crunchy, protein-packed, and perfect for healthy snacking or cooking."
+    "description": "Vijay Fried Gram is crunchy, protein-packed, and perfect for healthy snacking or cooking.",
+    "category": "dal"
   },
   {
     "id": "102",
     "img": "/images/dal16.jpg",
     "price": 209,
     "name": "Freshure Peanut",
-    "description": "Freshure Peanut is crunchy, protein-rich, and packed with natural flavor for healthy snacking."
+    "description": "Freshure Peanut is crunchy, protein-rich, and packed with natural flavor for healthy snacking.",
+    "category": "dal"
   },
   {
     "id": "103",
     "img": "/images/dal17.jpg",
     "price": 149,
     "name": "Meena Mocha Kottai",
-    "description": "Meena Mocha Kottai is fresh, protein-rich, and perfect for making tasty and traditional dishes."
+    "description": "Meena Mocha Kottai is fresh, protein-rich, and perfect for making tasty and traditional dishes.",
+    "category": "dal"
   },
   {
     "id": "104",
     "img": "/images/dal18.jpg",
     "price": 100,
     "name": "Vaaimai Roasted Peas Pattani",
-    "description": "Vaaimai Roasted Peas Pattani is crispy, protein-rich, and perfect for a healthy, tasty snack."
+    "description": "Vaaimai Roasted Peas Pattani is crispy, protein-rich, and perfect for a healthy, tasty snack.",
+    "category": "dal"
   },
   {
     "id": "105",
     "img": "/images/dal19.jpg",
     "price": 145,
     "name": "Daivik Green Peas,Pachani Pattani",
-    "description": "Daivik Green Peas (Pachani Pattani) are fresh, protein-rich, and ideal for flavorful and nutritious dishes."
+    "description": "Daivik Green Peas (Pachani Pattani) are fresh, protein-rich, and ideal for flavorful and nutritious dishes.",
+    "category": "dal"
   },
   {
     "id": "106",
     "img": "/images/dal20.jpg",
     "price": 150,
     "name": "Swach Dal",
-    "description": "Swach Dal is pure, protein-rich, and perfect for making healthy, delicious everyday meals."
+    "description": "Swach Dal is pure, protein-rich, and perfect for making healthy, delicious everyday meals.",
+    "category": "dal"
   },
   {
     "id": "107",
     "img": "/images/dal21.jpg",
     "price": 299,
     "name": "Swach Mix Dal",
-    "description": "Swach Mix Dal is a nutritious blend of pulses, rich in protein and perfect for wholesome meals."
+    "description": "Swach Mix Dal is a nutritious blend of pulses, rich in protein and perfect for wholesome meals.",
+    "category": "dal"
   },
   {
     "id": "108",
     "img": "/images/dal22.jpg",
     "price": 100,
     "name": "Tirupathi Food- Pulses",
-    "description": "Tirupathi Food Pulses are premium-quality, protein-rich, and ideal for healthy, flavorful cooking."
+    "description": "Tirupathi Food Pulses are premium-quality, protein-rich, and ideal for healthy, flavorful cooking.",
+    "category": "dal"
   },
   {
     "id": "109",
     "img": "/images/dal23.jpg",
     "price": 120,
     "name": "Patanjali Unpolished Malka Masur Dal",
-    "description": "Patanjali Unpolished Malka Masur Dal is protein-rich, fiber-packed, and naturally tasty for wholesome meals."
+    "description": "Patanjali Unpolished Malka Masur Dal is protein-rich, fiber-packed, and naturally tasty for wholesome meals.",
+    "category": "dal"
   },
   {
     "id": "110",
     "img": "/images/dal24.jpg",
     "price": 175,
     "name": "KP Spices Mustard & Urad Dal",
-    "description": "KP Spices Mustard & Urad Dal is a flavorful blend perfect for seasoning and traditional dishes."
+    "description": "KP Spices Mustard & Urad Dal is a flavorful blend perfect for seasoning and traditional dishes.",
+    "category": "dal"
   }
 ],
   "vegitables": [
@@ -897,227 +1007,259 @@
     "img": "/images/vegi1.png",
     "name": "Tomato",
     "price": 45,
-    "description": "Tomato 1kg is fresh, juicy, and perfect for cooking, salads, and flavorful sauces."
+    "description": "Tomato 1kg is fresh, juicy, and perfect for cooking, salads, and flavorful sauces.",
+    "category": "vegitables"
   },
   {
     "id": "112",
     "img": "/images/vegi2.png",
     "name": "Onion",
     "price": 50,
-    "description": "Onion 1kg is fresh, crisp, and ideal for adding rich flavor to any dish."
+    "description": "Onion 1kg is fresh, crisp, and ideal for adding rich flavor to any dish.",
+    "category": "vegitables"
   },
   {
     "id": "113",
     "img": "/images/vegi3.png",
     "name": "Potato",
     "price": 65,
-    "description": "Potato 1kg is fresh, starchy, and perfect for fries, curries, and everyday cooking."
+    "description": "Potato 1kg is fresh, starchy, and perfect for fries, curries, and everyday cooking.",
+    "category": "vegitables"
   },
   {
     "id": "114",
     "img": "/images/vegi4.png",
     "name": "Ginger",
     "price": 80,
-    "description": "Potato 1kg is fresh, starchy, and perfect for fries, curries, and everyday cooking."
+    "description": "Potato 1kg is fresh, starchy, and perfect for fries, curries, and everyday cooking.",
+    "category": "vegitables"
   },
   {
     "id": "115",
     "img": "/images/vegi5.png",
     "name": "Carrot",
     "price": 60,
-    "description": "Carrot 1kg is fresh, crunchy, and rich in nutrients for healthy, tasty meals."
+    "description": "Carrot 1kg is fresh, crunchy, and rich in nutrients for healthy, tasty meals.",
+    "category": "vegitables"
   },
   {
     "id": "116",
     "img": "/images/vegi6.png",
     "name": "Beetroot",
     "price": 45,
-    "description": "Beetroot 1kg is fresh, sweet, and packed with nutrients for vibrant, healthy dishes."
+    "description": "Beetroot 1kg is fresh, sweet, and packed with nutrients for vibrant, healthy dishes.",
+    "category": "vegitables"
   },
   {
     "id": "117",
     "img": "/images/vegi7.png",
     "name": "Green Beans",
     "price": 55,
-    "description": "Green Beans 1kg are fresh, tender, and perfect for healthy stir-fries and curries."
+    "description": "Green Beans 1kg are fresh, tender, and perfect for healthy stir-fries and curries.",
+    "category": "vegitables"
   },
   {
     "id": "118",
     "img": "/images/vegi8.png",
     "name": "Cabbage",
     "price": 30,
-    "description": "Cabbage 1kg is fresh, crisp, and perfect for salads, stir-fries, and curries."
+    "description": "Cabbage 1kg is fresh, crisp, and perfect for salads, stir-fries, and curries.",
+    "category": "vegitables"
   },
   {
     "id": "119",
     "img": "/images/vegi9.png",
     "name": "Cauliflower",
     "price": 35,
-    "description": "Cauliflower 1kg is fresh, tender, and ideal for curries, fries, and healthy recipes."
+    "description": "Cauliflower 1kg is fresh, tender, and ideal for curries, fries, and healthy recipes.",
+    "category": "vegitables"
   },
   {
     "id": "120",
     "img": "/images/vegi10.png",
     "name": "Brinjal",
     "price": 20,
-    "description": "Brinjal 1kg is fresh, glossy, and perfect for curries, fries, and traditional dishes."
+    "description": "Brinjal 1kg is fresh, glossy, and perfect for curries, fries, and traditional dishes.",
+    "category": "vegitables"
   },
   {
     "id": "121",
     "img": "/images/vegi11.png",
     "name": "Sweet Potato",
     "price": 30,
-    "description": "Sweet Potato 1kg is fresh, sweet, and rich in fiber for healthy and tasty dishes."
+    "description": "Sweet Potato 1kg is fresh, sweet, and rich in fiber for healthy and tasty dishes.",
+    "category": "vegitables"
   },
   {
     "id": "122",
     "img": "/images/vegi12.png",
     "name": "Mushroom",
     "price": 40,
-    "description": "Mushroom 1kg is fresh, soft, and perfect for stir-fries, curries, and delicious recipes."
+    "description": "Mushroom 1kg is fresh, soft, and perfect for stir-fries, curries, and delicious recipes.",
+    "category": "vegitables"
   },
   {
     "id": "123",
     "img": "/images/vegi13.png",
     "name": "Broccoli",
     "price": 70,
-    "description": "Broccoli 1kg is fresh, crunchy, and packed with nutrients for healthy, tasty meals."
+    "description": "Broccoli 1kg is fresh, crunchy, and packed with nutrients for healthy, tasty meals.",
+    "category": "vegitables"
   },
   {
     "id": "124",
     "img": "/images/vegi14.png",
     "name": "Garlick",
     "price": 90,
-    "description": "Garlic 1kg is fresh, aromatic, and perfect for adding rich flavor to any dish."
+    "description": "Garlic 1kg is fresh, aromatic, and perfect for adding rich flavor to any dish.",
+    "category": "vegitables"
   },
   {
     "id": "125",
     "img": "/images/vegi15.png",
     "name": "Cuccumber",
     "price": 45,
-    "description": "Cucumber 1kg is fresh, juicy, and perfect for salads, juices, and healthy snacks."
+    "description": "Cucumber 1kg is fresh, juicy, and perfect for salads, juices, and healthy snacks.",
+    "category": "vegitables"
   },
   {
     "id": "126",
     "img": "/images/vegi16.png",
     "name": "Corn",
     "price": 30,
-    "description": "Corn 1kg is fresh, sweet, and perfect for boiling, grilling, or adding to salads."
+    "description": "Corn 1kg is fresh, sweet, and perfect for boiling, grilling, or adding to salads.",
+    "category": "vegitables"
   },
   {
     "id": "127",
     "img": "/images/vegi17.png",
     "name": "Spinach",
     "price": 67,
-    "description": "Spinach 1kg is fresh, green, and rich in iron for healthy and nutritious meals."
+    "description": "Spinach 1kg is fresh, green, and rich in iron for healthy and nutritious meals.",
+    "category": "vegitables"
   },
   {
     "id": "128",
     "img": "/images/vegi18.png",
     "name": "Capsicum",
     "price": 55,
-    "description": "Capsicum 1kg is fresh, crisp, and perfect for salads, stir-fries, and flavorful dishes."
+    "description": "Capsicum 1kg is fresh, crisp, and perfect for salads, stir-fries, and flavorful dishes.",
+    "category": "vegitables"
   },
   {
     "id": "129",
     "img": "/images/vegi19.png",
     "name": "Peas",
     "price": 90,
-    "description": "Capsicum 1kg is fresh, crisp, and perfect for salads, stir-fries, and flavorful dishes."
+    "description": "Capsicum 1kg is fresh, crisp, and perfect for salads, stir-fries, and flavorful dishes.",
+    "category": "vegitables"
   },
   {
     "id": "130",
     "img": "/images/vegi20.png",
     "name": "Coconut",
     "price": 80,
-    "description": "Coconut 1kg is fresh, rich, and perfect for chutneys, curries, and traditional dishes."
+    "description": "Coconut 1kg is fresh, rich, and perfect for chutneys, curries, and traditional dishes.",
+    "category": "vegitables"
   },
   {
     "id": "131",
     "img": "/images/vegi21.png",
     "name": "ButterNut Squash",
     "price": 65,
-    "description": "Butternut Squash 1kg is sweet, creamy, and perfect for soups, curries, and roasted dishes."
+    "description": "Butternut Squash 1kg is sweet, creamy, and perfect for soups, curries, and roasted dishes.",
+    "category": "vegitables"
   },
   {
     "id": "132",
     "img": "/images/vegi22.png",
     "name": "Apple",
     "price": 130,
-    "description": "Apple 1kg is fresh, crisp, and naturally sweet for a healthy, delicious snack."
+    "description": "Apple 1kg is fresh, crisp, and naturally sweet for a healthy, delicious snack.",
+    "category": "vegitables"
   },
   {
     "id": "133",
     "img": "/images/vegi23.png",
     "name": "Banana",
     "price": 50,
-    "description": "Banana 1kg is fresh, sweet, and packed with energy for a healthy everyday snack."
+    "description": "Banana 1kg is fresh, sweet, and packed with energy for a healthy everyday snack.",
+    "category": "vegitables"
   },
   {
     "id": "134",
     "img": "/images/vegi24.png",
     "name": "Green Grapes",
     "price": 90,
-    "description": "Green Grapes 1kg are fresh, juicy, and naturally sweet for a refreshing healthy treat."
+    "description": "Green Grapes 1kg are fresh, juicy, and naturally sweet for a refreshing healthy treat.",
+    "category": "vegitables"
   },
   {
     "id": "135",
     "img": "/images/vegi25.png",
     "name": "Pineapple",
     "price": 30,
-    "description": "Pineapple 1kg is fresh, tangy, and juicy for refreshing snacks and desserts."
+    "description": "Pineapple 1kg is fresh, tangy, and juicy for refreshing snacks and desserts.",
+    "category": "vegitables"
   },
   {
     "id": "136",
     "img": "/images/vegi26.png",
     "name": "Strawberry",
     "price": 150,
-    "description": "Strawberry 1kg is fresh, sweet, and juicy for desserts, smoothies, and healthy snacks."
+    "description": "Strawberry 1kg is fresh, sweet, and juicy for desserts, smoothies, and healthy snacks.",
+    "category": "vegitables"
   },
   {
     "id": "137",
     "img": "/images/vegi27.png",
     "name": "Mango",
     "price": 100,
-    "description": "Mango 1kg is fresh, juicy, and naturally sweet for a delicious tropical treat."
+    "description": "Mango 1kg is fresh, juicy, and naturally sweet for a delicious tropical treat.",
+    "category": "vegitables"
   },
   {
     "id": "138",
     "img": "/images/vegi28.png",
     "name": "Watermellon",
     "price": 45,
-    "description": "Watermelon 1kg is fresh, juicy, and perfectly sweet for a refreshing summer treat."
+    "description": "Watermelon 1kg is fresh, juicy, and perfectly sweet for a refreshing summer treat.",
+    "category": "vegitables"
   },
   {
     "id": "139",
     "img": "/images/vegi29.png",
     "name": "Pomegranate",
     "price": 200,
-    "description": "Pomegranate 1kg is fresh, juicy, and rich in antioxidants for a healthy, tasty boost."
+    "description": "Pomegranate 1kg is fresh, juicy, and rich in antioxidants for a healthy, tasty boost.",
+    "category": "vegitables"
   },
   {
     "id": "140",
     "img": "/images/vegi30.png",
     "name": "Lemon",
     "price": 40,
-    "description": "Lemon 1kg is fresh, tangy, and perfect for adding zest and flavor to dishes and drinks."
+    "description": "Lemon 1kg is fresh, tangy, and perfect for adding zest and flavor to dishes and drinks.",
+    "category": "vegitables"
   },
   {
     "id": "141",
     "img": "/images/vegi31.png",
     "name": "Dragon Fruit",
     "price": 80,
-    "description": "Dragon Fruit 1kg is fresh, mildly sweet, and rich in nutrients for a refreshing healthy treat."
+    "description": "Dragon Fruit 1kg is fresh, mildly sweet, and rich in nutrients for a refreshing healthy treat.",
+    "category": "vegitables"
   },
   {
     "id": "142",
     "img": "/images/vegi32.png",
     "name": "Black Grapes",
     "price": 80,
-    "description": "Black Grapes 1kg are fresh, sweet, and juicy for a delicious and healthy snack."
+    "description": "Black Grapes 1kg are fresh, sweet, and juicy for a delicious and healthy snack.",
+    "category": "vegitables"
   }
 ],
-  "oil": [
+ "oil": [
   {
     "id": "143",
     "img": "/images/oil1.jpg",
@@ -1125,7 +1267,8 @@
     "bgimg1": "/images/bgoil1.2.jpg",
     "name": "Parachute Choconut Oil",
     "price": 199,
-    "description": "Parachute Choconut Oil is a blend of pure coconut and rich chocolate aroma for smooth, nourished hair."
+    "description": "Parachute Choconut Oil is a blend of pure coconut and rich chocolate aroma for smooth, nourished hair.",
+    "category": "oil"
   },
   {
     "id": "144",
@@ -1134,7 +1277,8 @@
     "bgimg1": "/images/bgoil2.2.png",
     "name": "Fortune Sunflower Oil",
     "price": 150,
-    "description": "Fortune Sunflower Oil is light, healthy, and rich in Vitamin E for everyday cooking."
+    "description": "Fortune Sunflower Oil is light, healthy, and rich in Vitamin E for everyday cooking.",
+    "category": "oil"
   },
   {
     "id": "145",
@@ -1143,7 +1287,8 @@
     "bgimg1": "/images/bgoil3.2.png",
     "name": "Gold Winner refined oil 1L",
     "price": 189,
-    "description": "Gold Winner Refined Oil 1L is light, pure, and rich in vitamins for healthy, tasty cooking."
+    "description": "Gold Winner Refined Oil 1L is light, pure, and rich in vitamins for healthy, tasty cooking.",
+    "category": "oil"
   },
   {
     "id": "146",
@@ -1152,7 +1297,8 @@
     "bgimg1": "/images/bgoil4.2.jpg",
     "name": "Gold Winner refined oil 5L",
     "price": 765,
-    "description": "Gold Winner Refined Oil 5L is light, pure, and rich in vitamins for healthy, tasty cooking."
+    "description": "Gold Winner Refined Oil 5L is light, pure, and rich in vitamins for healthy, tasty cooking.",
+    "category": "oil"
   },
   {
     "id": "147",
@@ -1161,7 +1307,8 @@
     "bgimg1": "/images/bgoil5.2.png",
     "name": "Gold Winner Sunflower oil 1L",
     "price": 220,
-    "description": "Gold Winner Sunflower Oil 1L is pure, light, and rich in Vitamin E for healthy everyday cooking."
+    "description": "Gold Winner Sunflower Oil 1L is pure, light, and rich in Vitamin E for healthy everyday cooking.",
+    "category": "oil"
   },
   {
     "id": "148",
@@ -1170,7 +1317,8 @@
     "bgimg1": "/images/bgoil6.2.jpg",
     "name": "VVD Pure Coconut Oil",
     "price": 250,
-    "description": "VVD Pure Coconut Oil is 100% natural, fresh, and perfect for healthy hair and cooking."
+    "description": "VVD Pure Coconut Oil is 100% natural, fresh, and perfect for healthy hair and cooking.",
+    "category": "oil"
   },
   {
     "id": "149",
@@ -1179,7 +1327,8 @@
     "bgimg1": "/images/bgoil7.2.jpg",
     "name": "VVD Pure Coconut Oil 500ML",
     "price": 175,
-    "description": "VVD Pure Coconut Oil is 100% natural, fresh, and perfect for healthy hair and cooking."
+    "description": "VVD Pure Coconut Oil is 100% natural, fresh, and perfect for healthy hair and cooking.",
+    "category": "oil"
   },
   {
     "id": "150",
@@ -1188,7 +1337,8 @@
     "bgimg1": "/images/bgoil8.2.jpg",
     "name": "Mr Gold Gingly Oil 1L",
     "price": 299,
-    "description": "Mr. Gold Gingelly Oil 1L is pure, aromatic, and perfect for traditional cooking and health benefits."
+    "description": "Mr. Gold Gingelly Oil 1L is pure, aromatic, and perfect for traditional cooking and health benefits.",
+    "category": "oil"
   },
   {
     "id": "151",
@@ -1197,7 +1347,8 @@
     "bgimg1": "/images/bgoil9.2.jpg",
     "name": "Mr Gold Gingly Oil 5L",
     "price": 899,
-    "description": "Mr. Gold Gingelly Oil 5L is pure, aromatic, and perfect for traditional cooking and health benefits."
+    "description": "Mr. Gold Gingelly Oil 5L is pure, aromatic, and perfect for traditional cooking and health benefits.",
+    "category": "oil"
   },
   {
     "id": "152",
@@ -1206,7 +1357,8 @@
     "bgimg1": "/images/bgoil10.2.png",
     "name": "Mr Gold Groundnut Oil 1L",
     "price": 350,
-    "description": "Mr. Gold Groundnut Oil 1L is pure, aromatic, and ideal for tasty, healthy everyday cooking."
+    "description": "Mr. Gold Groundnut Oil 1L is pure, aromatic, and ideal for tasty, healthy everyday cooking.",
+    "category": "oil"
   },
   {
     "id": "153",
@@ -1215,7 +1367,8 @@
     "bgimg1": "/images/bgoil11.2.png",
     "name": "Cardia Advanced Groundnut oil 1L",
     "price": 275,
-    "description": "Cardia Advanced Groundnut Oil 1L is heart-friendly, pure, and perfect for healthy, flavorful cooking."
+    "description": "Cardia Advanced Groundnut Oil 1L is heart-friendly, pure, and perfect for healthy, flavorful cooking.",
+    "category": "oil"
   },
   {
     "id": "154",
@@ -1224,7 +1377,8 @@
     "bgimg1": "/images/bgoil12.2.jpg",
     "name": "Vatika Hair Oil",
     "price": 300,
-    "description": "Vatika Hair Oil is enriched with natural herbs for strong, shiny, and nourished hair."
+    "description": "Vatika Hair Oil is enriched with natural herbs for strong, shiny, and nourished hair.",
+    "category": "oil"
   },
   {
     "id": "155",
@@ -1233,7 +1387,8 @@
     "bgimg1": "/images/bgoil13.2.jpg",
     "name": "Vatika Hair Growth oil",
     "price": 189,
-    "description": "Vatika Hair Oil is enriched with natural herbs for strong, shiny, and nourished hair."
+    "description": "Vatika Hair Oil is enriched with natural herbs for strong, shiny, and nourished hair.",
+    "category": "oil"
   },
   {
     "id": "156",
@@ -1242,7 +1397,8 @@
     "bgimg1": "/images/bgoil14.2.jpg",
     "name": "Roobini refined oil 1L",
     "price": 98,
-    "description": "Roobini Refined Oil 1L is pure, light, and perfect for healthy and tasty cooking."
+    "description": "Roobini Refined Oil 1L is pure, light, and perfect for healthy and tasty cooking.",
+    "category": "oil"
   },
   {
     "id": "157",
@@ -1251,7 +1407,8 @@
     "bgimg1": "/images/bgoil15.2.jpg",
     "name": "Fortune Refined oil",
     "price": 125,
-    "description": "Fortune Refined Oil is light, pure, and rich in nutrients for healthy everyday cooking."
+    "description": "Fortune Refined Oil is light, pure, and rich in nutrients for healthy everyday cooking.",
+    "category": "oil"
   },
   {
     "id": "158",
@@ -1260,16 +1417,18 @@
     "bgimg1": "/images/bgoil16.2.jpg",
     "name": "Idayam oil",
     "price": 200,
-    "description": "Idhayam Oil is pure, aromatic sesame oil perfect for traditional South Indian cooking."
+    "description": "Idhayam Oil is pure, aromatic sesame oil perfect for traditional South Indian cooking.",
+    "category": "oil"
   },
   {
     "id": "159",
     "img": "/images/oil17.jpg",
     "bgimg": "/images/bgoil17.1.jpg",
     "bgimg1": "/images/bgoil17.2.jpg",
-    "name": "Fortune Sunflower Oil Tin 10L ",
+    "name": "Fortune Sunflower Oil Tin 10L",
     "price": 599,
-    "description": "Fortune Sunflower Oil Tin 10L is light, healthy, and rich in Vitamin E for bulk everyday cooking."
+    "description": "Fortune Sunflower Oil Tin 10L is light, healthy, and rich in Vitamin E for bulk everyday cooking.",
+    "category": "oil"
   },
   {
     "id": "160",
@@ -1278,7 +1437,8 @@
     "bgimg1": "/images/bgoil18.1.jpg",
     "name": "Parachute Choconut Oil 250ML",
     "price": 125,
-    "description": "Parachute Choconut Oil 250ml is a nourishing blend of coconut and chocolate aroma for soft, smooth hair."
+    "description": "Parachute Choconut Oil 250ml is a nourishing blend of coconut and chocolate aroma for soft, smooth hair.",
+    "category": "oil"
   },
   {
     "id": "161",
@@ -1287,7 +1447,8 @@
     "bgimg1": "/images/bgoil19.2.jpg",
     "name": "Lemon Grass oil 200ML",
     "price": 299,
-    "description": "Lemongrass Oil 200ml is refreshing, aromatic, and perfect for relaxation, skincare, and massage."
+    "description": "Lemongrass Oil 200ml is refreshing, aromatic, and perfect for relaxation, skincare, and massage.",
+    "category": "oil"
   },
   {
     "id": "162",
@@ -1296,7 +1457,8 @@
     "bgimg1": "/images/bgoil20.2.jpg",
     "name": "Hibiscus Hair oil",
     "price": 259,
-    "description": "Hibiscus Hair Oil is enriched with hibiscus extracts for strong, shiny, and nourished hair."
+    "description": "Hibiscus Hair Oil is enriched with hibiscus extracts for strong, shiny, and nourished hair.",
+    "category": "oil"
   },
   {
     "id": "163",
@@ -1305,7 +1467,8 @@
     "bgimg1": "/images/bgoil21.2.jpg",
     "name": "Karthika Hair oil",
     "price": 235,
-    "description": "Karthika Hair Oil is herbal-rich and nourishes hair for strength, shine, and healthy growth."
+    "description": "Karthika Hair Oil is herbal-rich and nourishes hair for strength, shine, and healthy growth.",
+    "category": "oil"
   },
   {
     "id": "164",
@@ -1314,7 +1477,8 @@
     "bgimg1": "/images/bgoil22.2.jpg",
     "name": "SP Rabbit hair oil",
     "price": 499,
-    "description": "SP Rabbit Hair Oil is enriched with natural ingredients for smooth, shiny, and healthy hair."
+    "description": "SP Rabbit Hair Oil is enriched with natural ingredients for smooth, shiny, and healthy hair.",
+    "category": "oil"
   },
   {
     "id": "165",
@@ -1323,7 +1487,8 @@
     "bgimg1": "/images/bgoil23.2.jpg",
     "name": "Indulekha hair oil",
     "price": 299,
-    "description": "Indulekha Hair Oil is ayurvedic and promotes hair growth while reducing hair fall naturally."
+    "description": "Indulekha Hair Oil is ayurvedic and promotes hair growth while reducing hair fall naturally.",
+    "category": "oil"
   },
   {
     "id": "166",
@@ -1332,7 +1497,8 @@
     "bgimg1": "/images/bgoil24.2.jpg",
     "name": "Manthra Refined oil",
     "price": 225,
-    "description": "Manthra Refined Oil is pure, light, and perfect for healthy and tasty everyday cooking."
+    "description": "Manthra Refined Oil is pure, light, and perfect for healthy and tasty everyday cooking.",
+    "category": "oil"
   }
 ],
  "masala": [
@@ -1344,7 +1510,8 @@
     "bgimg2": "/images/bgmasala1.4.jpeg",
     "name": "Aachi Mutton Masala 50g",
     "price": 26,
-    "description": "Aachi Mutton Masala 50g is a flavorful spice blend for rich, aromatic, and delicious mutton dishes."
+    "description": "Aachi Mutton Masala 50g is a flavorful spice blend for rich, aromatic, and delicious mutton dishes.",
+    "category": "masala"
   },
   {
     "id": "168",
@@ -1353,7 +1520,8 @@
     "bgimg1": "/images/bgmasala2.3.jpg",
     "name": "Sakthi Mutton Masala 50g",
     "price": 25,
-    "description": "Sakthi Mutton Masala 50g is a spicy, aromatic blend that enhances the taste of mutton dishes."
+    "description": "Sakthi Mutton Masala 50g is a spicy, aromatic blend that enhances the taste of mutton dishes.",
+    "category": "masala"
   },
   {
     "id": "169",
@@ -1363,7 +1531,8 @@
     "bgimg2": "/images/bgmasala3.4.jpg",
     "name": "Aachi Chicken Masala 50g",
     "price": 24,
-    "description": "Aachi Chicken Masala 50g is a rich, flavorful spice mix for delicious and aromatic chicken dishes."
+    "description": "Aachi Chicken Masala 50g is a rich, flavorful spice mix for delicious and aromatic chicken dishes.",
+    "category": "masala"
   },
   {
     "id": "170",
@@ -1373,7 +1542,8 @@
     "bgimg2": "/images/bgmasala4.4.jpeg",
     "name": "Aachi Fish Masala 50g",
     "price": 35,
-    "description": "Aachi Fish Masala 50g is a spicy, tangy blend perfect for flavorful and aromatic fish curries."
+    "description": "Aachi Fish Masala 50g is a spicy, tangy blend perfect for flavorful and aromatic fish curries.",
+    "category": "masala"
   },
   {
     "id": "171",
@@ -1383,7 +1553,8 @@
     "bgimg2": "/images/bgmasala5.4.jpeg",
     "name": "Sakthi Fissh Fry Masala 50g",
     "price": 25,
-    "description": "Sakthi Fish Fry Masala 50g is a spicy, crispy mix for perfectly flavored and tasty fish fries."
+    "description": "Sakthi Fish Fry Masala 50g is a spicy, crispy mix for perfectly flavored and tasty fish fries.",
+    "category": "masala"
   },
   {
     "id": "172",
@@ -1393,7 +1564,8 @@
     "bgimg2": "/images/bgmasala6.4.jpeg",
     "name": "Aachi Idly Chilly Powder",
     "price": 10,
-    "description": "Aachi Idly Powder is a flavorful, spicy blend perfect for serving with soft idlis and dosas."
+    "description": "Aachi Idly Powder is a flavorful, spicy blend perfect for serving with soft idlis and dosas.",
+    "category": "masala"
   },
   {
     "id": "173",
@@ -1403,7 +1575,8 @@
     "bgimg2": "/images/bgmasala7.4.jpg",
     "name": "Sakthi Chilly Powder",
     "price": 18,
-    "description": "Sakthi Chilli Powder is pure, vibrant, and adds rich color and spicy flavor to dishes."
+    "description": "Sakthi Chilli Powder is pure, vibrant, and adds rich color and spicy flavor to dishes.",
+    "category": "masala"
   },
   {
     "id": "174",
@@ -1413,7 +1586,8 @@
     "bgimg2": "/images/bgmasala8.4.jpeg",
     "name": "Sakthi Garam Masala",
     "price": 20,
-    "description": "Sakthi Garam Masala is an aromatic spice blend that adds rich flavor and warmth to dishes."
+    "description": "Sakthi Garam Masala is an aromatic spice blend that adds rich flavor and warmth to dishes.",
+    "category": "masala"
   },
   {
     "id": "175",
@@ -1423,7 +1597,8 @@
     "bgimg2": "/images/bgmasala9.4.jpeg",
     "name": "Aachi Kashmiri Chilly Powder",
     "price": 30,
-    "description": "Aachi Kashmiri Chilli Powder is mild, vibrant, and adds rich color and flavor to dishes."
+    "description": "Aachi Kashmiri Chilli Powder is mild, vibrant, and adds rich color and flavor to dishes.",
+    "category": "masala"
   },
   {
     "id": "176",
@@ -1432,7 +1607,8 @@
     "bgimg1": "/images/bgmasala10.3.jpeg",
     "name": "Aachi Turmeric Powder",
     "price": 20,
-    "description": "Aachi Turmeric Powder is pure, aromatic, and adds natural color and health benefits to dishes."
+    "description": "Aachi Turmeric Powder is pure, aromatic, and adds natural color and health benefits to dishes.",
+    "category": "masala"
   },
   {
     "id": "177",
@@ -1442,7 +1618,8 @@
     "bgimg2": "/images/bgmasala11.4.jpeg",
     "name": "Sakthi Turmeric powder 50g",
     "price": 15,
-    "description": "Sakthi Turmeric Powder 50g is pure, golden, and perfect for adding color and flavor to dishes."
+    "description": "Sakthi Turmeric Powder 50g is pure, golden, and perfect for adding color and flavor to dishes.",
+    "category": "masala"
   },
   {
     "id": "178",
@@ -1450,7 +1627,8 @@
     "bgimg": "/images/bgmasala12.2.jpg",
     "name": "Sakthi Coriander Powder 50g",
     "price": 15,
-    "description": "Sakthi Coriander Powder 50g is fresh, aromatic, and adds rich flavor to curries and gravies."
+    "description": "Sakthi Coriander Powder 50g is fresh, aromatic, and adds rich flavor to curries and gravies.",
+    "category": "masala"
   },
   {
     "id": "179",
@@ -1460,7 +1638,8 @@
     "bgimg2": "/images/bgmasala13.4.jpeg",
     "name": "Aachi Sambar Powder ",
     "price": 20,
-    "description": "Aachi Sambar Powder is a flavorful spice blend that gives authentic taste to South Indian sambar."
+    "description": "Aachi Sambar Powder is a flavorful spice blend that gives authentic taste to South Indian sambar.",
+    "category": "masala"
   },
   {
     "id": "180",
@@ -1470,7 +1649,8 @@
     "bgimg2": "/images/bgmasala14.4.jpeg",
     "name": "Aachi Pepper Powder",
     "price": 20,
-    "description": "Aachi Pepper Powder is pure, strong, and adds bold spicy flavor to any dish."
+    "description": "Aachi Pepper Powder is pure, strong, and adds bold spicy flavor to any dish.",
+    "category": "masala"
   },
   {
     "id": "181",
@@ -1480,7 +1660,8 @@
     "bgimg2": "/images/bgmasala15.4.jpeg",
     "name": "Sakthi Biriyani Powder 50g",
     "price": 20,
-    "description": "Sakthi Biryani Powder is a rich, aromatic spice mix for flavorful and authentic biryanis."
+    "description": "Sakthi Biryani Powder is a rich, aromatic spice mix for flavorful and authentic biryanis.",
+    "category": "masala"
   },
   {
     "id": "182",
@@ -1489,7 +1670,8 @@
     "bgimg1": "/images/bgmasala16.3.jpg",
     "name": "Sakthi Chicken 65 powder 50g",
     "price": 25,
-    "description": "Sakthi Chicken 65 Powder 50g is a spicy, flavorful mix for crispy and delicious Chicken 65."
+    "description": "Sakthi Chicken 65 Powder 50g is a spicy, flavorful mix for crispy and delicious Chicken 65.",
+    "category": "masala"
   },
   {
     "id": "183",
@@ -1499,7 +1681,8 @@
     "bgimg2": "/images/bgmasala17.4.jpeg",
     "name": "Eastern Chicken 65 masala",
     "price": 10,
-    "description": "Eastern Chicken 65 Masala is a spicy, tangy blend for perfectly crispy and flavorful Chicken 65."
+    "description": "Eastern Chicken 65 Masala is a spicy, tangy blend for perfectly crispy and flavorful Chicken 65.",
+    "category": "masala"
   },
   {
     "id": "184",
@@ -1509,7 +1692,8 @@
     "bgimg2": "/images/bgmasala18.4.jpg",
     "name": "Aachi Kulambu Powder",
     "price": 10,
-    "description": "Aachi Kulambu Powder is a spicy, aromatic blend that adds authentic South Indian flavor to curries."
+    "description": "Aachi Kulambu Powder is a spicy, aromatic blend that adds authentic South Indian flavor to curries.",
+    "category": "masala"
   },
   {
     "id": "185",
@@ -1518,7 +1702,8 @@
     "bgimg1": "/images/bgmasala19.3.jpg",
     "name": "Sakthi Sambar powder 50g",
     "price": 22,
-    "description": "Sakthi Sambar Powder 50g is a flavorful spice mix that gives authentic South Indian sambar taste."
+    "description": "Sakthi Sambar Powder 50g is a flavorful spice mix that gives authentic South Indian sambar taste.",
+    "category": "masala"
   },
   {
     "id": "186",
@@ -1528,7 +1713,8 @@
     "bgimg2": "/images/bgmasala20.4.jpeg",
     "name": "MTR Sambar powder",
     "price": 99,
-    "description": "MTR Sambar Powder is a rich, aromatic blend that brings authentic South Indian flavor to sambar."
+    "description": "MTR Sambar Powder is a rich, aromatic blend that brings authentic South Indian flavor to sambar.",
+    "category": "masala"
   },
   {
     "id": "187",
@@ -1538,7 +1724,8 @@
     "bgimg2": "/images/bgmasala21.4.jpeg",
     "name": "Eastren Chicken powder",
     "price": 15,
-    "description": "Eastern Chicken Powder is a flavorful spice mix that adds rich taste and aroma to chicken dishes."
+    "description": "Eastern Chicken Powder is a flavorful spice mix that adds rich taste and aroma to chicken dishes.",
+    "category": "masala"
   },
   {
     "id": "188",
@@ -1548,7 +1735,8 @@
     "bgimg2": "/images/bgmasala22.4.png",
     "name": "Chicken Thandori Masala",
     "price": 99,
-    "description": "Chicken Tandoori Masala is a spicy, smoky blend perfect for flavorful and juicy tandoori dishes."
+    "description": "Chicken Tandoori Masala is a spicy, smoky blend perfect for flavorful and juicy tandoori dishes.",
+    "category": "masala"
   }
 ],
   "soap": [
@@ -1559,7 +1747,8 @@
     "bgimg1": "/images/bgsoap1.2.jpg",
     "name": "Surf xl powder",
     "price": 40,
-    "description": "**Surf Excel Powder** – Powerful detergent that removes tough stains and keeps your clothes bright and fresh. 🧺✨"
+    "description": "**Surf Excel Powder** – Powerful detergent that removes tough stains and keeps your clothes bright and fresh. 🧺✨",
+    "category": "soap"
   },
   {
     "id": "190",
@@ -1568,7 +1757,8 @@
     "bgimg1": "/images/bgsoap2.2.jpeg",
     "name": "Chinthol soap",
     "price": 45,
-    "description": "**Cinthol Soap** – Refreshing deodorant soap that keeps your skin cool, clean, and energized all day. 🧼"
+    "description": "**Cinthol Soap** – Refreshing deodorant soap that keeps your skin cool, clean, and energized all day. 🧼",
+    "category": "soap"
   },
   {
     "id": "191",
@@ -1578,7 +1768,8 @@
     "bgimg3": "/images/bgsoap3.3.jpeg",
     "name": "Chinthol soap Buy 4 get 1 free",
     "price": 129,
-    "description": "**Cinthol Soap** – Refreshing deodorant soap that keeps your skin cool, clean, and energized all day. 🧼💧"
+    "description": "**Cinthol Soap** – Refreshing deodorant soap that keeps your skin cool, clean, and energized all day. 🧼💧",
+    "category": "soap"
   },
   {
     "id": "192",
@@ -1588,7 +1779,8 @@
     "bgimg2": "/images/bgsoap5.3.jpeg",
     "name": "Dove Soap",
     "price": 40,
-    "description": "**Dove Soap** – Gentle moisturizing soap that nourishes your skin, leaving it soft, smooth, and radiant. 🕊️✨"
+    "description": "**Dove Soap** – Gentle moisturizing soap that nourishes your skin, leaving it soft, smooth, and radiant. 🕊️✨",
+    "category": "soap"
   },
   {
     "id": "193",
@@ -1598,7 +1790,8 @@
     "bgimg2": "/images/bgsoap6.3.jpeg",
     "name": "Mysore Sandle  Soap",
     "price": 45,
-    "description": "**Mysore Sandal Soap** – Luxurious soap infused with pure sandalwood oil for a natural fragrance and glowing skin. 🌸🪵"
+    "description": "**Mysore Sandal Soap** – Luxurious soap infused with pure sandalwood oil for a natural fragrance and glowing skin. 🌸🪵",
+    "category": "soap"
   },
   {
     "id": "194",
@@ -1608,7 +1801,8 @@
     "bgimg2": "/images/bgsoap7.3.jpeg",
     "name": "Tide Washing Soap",
     "price": 15,
-    "description": "**Tide Washing Soap** – Tough on stains yet gentle on fabric, giving your clothes a bright, fresh clean every wash. 🧼👕✨"
+    "description": "**Tide Washing Soap** – Tough on stains yet gentle on fabric, giving your clothes a bright, fresh clean every wash. 🧼👕✨",
+    "category": "soap"
   },
   {
     "id": "195",
@@ -1618,7 +1812,8 @@
     "bgimg2": "/images/bgsoap8.3.jpg",
     "name": "Vim Bar",
     "price": 10,
-    "description": "**Vim Bar** – Powerful dishwash bar that cuts through tough grease and leaves your utensils sparkling clean. 🍽️✨"
+    "description": "**Vim Bar** – Powerful dishwash bar that cuts through tough grease and leaves your utensils sparkling clean. 🍽️✨",
+    "category": "soap"
   },
   {
     "id": "196",
@@ -1626,17 +1821,19 @@
     "bgimg": "/images/bgsoap10.1.jpeg",
     "name": "Exo dish Wash Soap",
     "price": 59,
-    "description": "**Exo Dishwash Soap** – Effective grease remover with a refreshing lime fragrance that keeps your utensils shining and germ-free. 🍋✨"
+    "description": "**Exo Dishwash Soap** – Effective grease remover with a refreshing lime fragrance that keeps your utensils shining and germ-free. 🍋✨",
+    "category": "soap"
   },
   {
     "id": "197",
     "img": "/images/soap10.png",
     "bgimg": "/images/bgsoap10.1.jpeg",
-    "bgimg1": "/images/bgsoap10.2.jpeg",
+    "bgimg1": "/images/bgsoap10.1.jpeg",
     "bgimg2": "/images/bgsoap10.3.jpeg",
     "name": "Vim Combo Pack ",
     "price": 109,
-    "description": "**Vim Combo Pack** – A value pack offering superior grease removal and long-lasting freshness for spotless, shiny utensils. 🧽🍋✨"
+    "description": "**Vim Combo Pack** – A value pack offering superior grease removal and long-lasting freshness for spotless, shiny utensils. 🧽🍋✨",
+    "category": "soap"
   },
   {
     "id": "198",
@@ -1645,7 +1842,8 @@
     "bgimg1": "/images/bgsoap11.2.jpeg",
     "name": "Godrej Fabric Liquid",
     "price": 159,
-    "description": "**Godrej Fabric Liquid** – Gentle yet powerful liquid detergent that keeps your clothes soft, bright, and fresh after every wash. 👕💧✨"
+    "description": "**Godrej Fabric Liquid** – Gentle yet powerful liquid detergent that keeps your clothes soft, bright, and fresh after every wash. 👕💧✨",
+    "category": "soap"
   },
   {
     "id": "199",
@@ -1654,7 +1852,8 @@
     "bgimg1": "/images/bgsoap12.2.jpeg",
     "name": "Ariel Matic Liquid",
     "price": 199,
-    "description": "**Ariel Matic Liquid** – Advanced liquid detergent designed for washing machines, giving spotless, bright clothes with every wash. 🧺✨"
+    "description": "**Ariel Matic Liquid** – Advanced liquid detergent designed for washing machines, giving spotless, bright clothes with every wash. 🧺✨",
+    "category": "soap"
   },
   {
     "id": "200",
@@ -1663,7 +1862,8 @@
     "bgimg1": "/images/bgsoap13.2.png",
     "name": "Surf XL matic Liquid",
     "price": 199,
-    "description": "**Surf Excel Matic Liquid** – Powerful liquid detergent specially made for washing machines, removing tough stains effortlessly while keeping clothes fresh and bright. 💧👕✨"
+    "description": "**Surf Excel Matic Liquid** – Powerful liquid detergent specially made for washing machines, removing tough stains effortlessly while keeping clothes fresh and bright. 💧👕✨",
+    "category": "soap"
   },
   {
     "id": "201",
@@ -1673,7 +1873,8 @@
     "bgimg2": "/images/bgsoap14.3.jpeg",
     "name": "Surf XL matic Liquid Top Load",
     "price": 175,
-    "description": "**Surf Excel Matic Liquid Top Load** – Expertly formulated for top load machines, it removes tough stains in one wash while being gentle on fabrics. 🧺💦✨"
+    "description": "**Surf Excel Matic Liquid Top Load** – Expertly formulated for top load machines, it removes tough stains in one wash while being gentle on fabrics. 🧺💦✨",
+    "category": "soap"
   },
   {
     "id": "202",
@@ -1682,7 +1883,8 @@
     "bgimg1": "/images/bgsoap15.2.jpeg",
     "name": "Vim Liquid",
     "price": 99,
-    "description": "**Vim Liquid** – Concentrated dishwashing liquid that removes tough grease easily and leaves your utensils sparkling clean with a fresh lemon fragrance. 🍋✨"
+    "description": "**Vim Liquid** – Concentrated dishwashing liquid that removes tough grease easily and leaves your utensils sparkling clean with a fresh lemon fragrance. 🍋✨",
+    "category": "soap"
   },
   {
     "id": "203",
@@ -1691,7 +1893,8 @@
     "bgimg1": "/images/bgsoap16.2.jpeg",
     "name": "Vim Liquid Pouch",
     "price": 75,
-    "description": "**Vim Liquid** – Concentrated dishwashing liquid that removes tough grease easily and leaves your utensils sparkling clean with a fresh lemon fragrance. 🍋✨"
+    "description": "**Vim Liquid** – Concentrated dishwashing liquid that removes tough grease easily and leaves your utensils sparkling clean with a fresh lemon fragrance. 🍋✨",
+    "category": "soap"
   },
   {
     "id": "204",
@@ -1700,7 +1903,8 @@
     "bgimg1": "/images/bgsoap17.2.jpg",
     "name": "Rin Powder",
     "price": 150,
-    "description": "**Rin Powder** – Brightening detergent powder that removes dirt effectively and keeps your clothes dazzling white and fresh. 👕✨"
+    "description": "**Rin Powder** – Brightening detergent powder that removes dirt effectively and keeps your clothes dazzling white and fresh. 👕✨",
+    "category": "soap"
   },
   {
     "id": "205",
@@ -1709,7 +1913,8 @@
     "bgimg1": "/images/bgsoap18.2.jpeg",
     "name": "Patanjali Detergant Powder",
     "price": 170,
-    "description": "**Patanjali Detergent Powder** – Herbal detergent powder enriched with natural ingredients for effective cleaning and gentle care of fabrics. 🌿🧺✨"
+    "description": "**Patanjali Detergent Powder** – Herbal detergent powder enriched with natural ingredients for effective cleaning and gentle care of fabrics. 🌿🧺✨",
+    "category": "soap"
   },
   {
     "id": "206",
@@ -1718,17 +1923,19 @@
     "bgimg1": "/images/bgsoap19.2.jpeg",
     "name": "Head And Shoulder Shampoo",
     "price": 195,
-    "description": "**Head & Shoulders Shampoo** – Anti-dandruff shampoo that cleanses the scalp, removes flakes, and leaves your hair fresh, soft, and healthy. 🧴💆‍♂️✨"
+    "description": "**Head & Shoulders Shampoo** – Anti-dandruff shampoo that cleanses the scalp, removes flakes, and leaves your hair fresh, soft, and healthy. 🧴💆‍♂️✨",
+    "category": "soap"
   },
   {
     "id": "207",
     "img": "/images/soap20.png",
     "bgimg": "/images/bgsoap20.1.png",
     "bgimg1": "/images/bgsoap20.2.jpeg",
-    "bgimg2": "/images/bgsoap14.3.jpeg",
+    "bgimg2": "/images/bgsoap20.3.jpeg",
     "name": "Tresemme Shampoo",
     "price": 145,
-    "description": "**TRESemmé Shampoo** – Salon-quality shampoo that nourishes your hair, leaving it smooth, shiny, and frizz-free every day. 💁‍♀️✨"
+    "description": "**TRESemmé Shampoo** – Salon-quality shampoo that nourishes your hair, leaving it smooth, shiny, and frizz-free every day. 💁‍♀️✨",
+    "category": "soap"
   },
   {
     "id": "208",
@@ -1737,7 +1944,8 @@
     "bgimg1": "/images/bgsoap21.2.jpeg",
     "name": "Pears Parabens Shampoo",
     "price": 135,
-    "description": "**Pears Soap** – Gentle glycerin-based soap free from parabens, that cleanses softly and keeps your skin smooth, glowing, and hydrated. 🧼🌿✨"
+    "description": "**Pears Soap** – Gentle glycerin-based soap free from parabens, that cleanses softly and keeps your skin smooth, glowing, and hydrated. 🧼🌿✨",
+    "category": "soap"
   },
   {
     "id": "209",
@@ -1746,7 +1954,8 @@
     "bgimg1": "/images/bgsoap22.2.jpeg",
     "name": "Dettol Hand wash ",
     "price": 105,
-    "description": "**Dettol Hand Wash** – Antibacterial hand wash that kills 99.9% of germs while keeping your hands clean, soft, and protected. 🖐️🧴✨"
+    "description": "**Dettol Hand Wash** – Antibacterial hand wash that kills 99.9% of germs while keeping your hands clean, soft, and protected. 🖐️🧴✨",
+    "category": "soap"
   },
   {
     "id": "210",
@@ -1756,7 +1965,8 @@
     "bgimg2": "/images/bgsoap23.3.jpeg",
     "name": "Dettol Hand wash Pouch",
     "price": 75,
-    "description": "**Dettol Hand Wash** – Antibacterial hand wash that kills 99.9% of germs while keeping your hands clean, soft, and protected. 🖐️🧴✨"
+    "description": "**Dettol Hand Wash** – Antibacterial hand wash that kills 99.9% of germs while keeping your hands clean, soft, and protected. 🖐️🧴✨",
+    "category": "soap"
   },
   {
     "id": "211",
@@ -1765,7 +1975,8 @@
     "bgimg1": "/images/bgsoap24.2.jpeg",
     "name": "Soft Touch",
     "price": 99,
-    "description": "**Soft Touch** – Fabric conditioner that gives your clothes long-lasting freshness, softness, and a pleasant fragrance after every wash. 👗🌸✨"
+    "description": "**Soft Touch** – Fabric conditioner that gives your clothes long-lasting freshness, softness, and a pleasant fragrance after every wash. 👗🌸✨",
+    "category": "soap"
   },
   {
     "id": "212",
@@ -1775,7 +1986,8 @@
     "bgimg2": "/images/bgsoap25.3.png",
     "name": "Comfort fabric conditioner",
     "price": 125,
-    "description": "**Comfort** – Fabric conditioner that provides superior softness, lasting fragrance, and freshness to every wash. 🌸👕✨"
+    "description": "**Comfort** – Fabric conditioner that provides superior softness, lasting fragrance, and freshness to every wash. 🌸👕✨",
+    "category": "soap"
   },
   {
     "id": "213",
@@ -1784,7 +1996,8 @@
     "bgimg1": "/images/bgsoap26.2.jpeg",
     "name": "Ujala Fabric",
     "price": 100,
-    "description": "**Ujala Fresh Fabric** – Fabric enhancer that brightens clothes, removes dullness, and keeps them looking fresh and radiant after every wash. 👕💧✨"
+    "description": "**Ujala Fresh Fabric** – Fabric enhancer that brightens clothes, removes dullness, and keeps them looking fresh and radiant after every wash. 👕💧✨",
+    "category": "soap"
   },
   {
     "id": "214",
@@ -1793,7 +2006,8 @@
     "bgimg1": "/images/bgsoap27.2.jpeg",
     "name": "Lizol Cleaning liquid",
     "price": 96,
-    "description": "**Lizol Cleaning Liquid** – Powerful disinfectant cleaner that kills 99.9% of germs and leaves your floors spotless with a refreshing fragrance. 🧽🏠✨"
+    "description": "**Lizol Cleaning Liquid** – Powerful disinfectant cleaner that kills 99.9% of germs and leaves your floors spotless with a refreshing fragrance. 🧽🏠✨",
+    "category": "soap"
   },
   {
     "id": "215",
@@ -1803,7 +2017,8 @@
     "bgimg2": "/images/bgsoap28.3.png",
     "name": "Colin Cleaning Liquid",
     "price": 75,
-    "description": "**Colin Cleaning Liquid** – Multi-surface cleaner that removes tough stains and grease, leaving glass and surfaces sparkling clean and streak-free. 🪞✨🧴"
+    "description": "**Colin Cleaning Liquid** – Multi-surface cleaner that removes tough stains and grease, leaving glass and surfaces sparkling clean and streak-free. 🪞✨🧴",
+    "category": "soap"
   },
   {
     "id": "216",
@@ -1811,7 +2026,8 @@
     "bgimg": "/images/bgsoap29.1.jpeg",
     "name": "Harpic Bathroom cleaner",
     "price": 175,
-    "description": "**Harpic Bathroom Cleaner** – Powerful cleaner that removes tough stains, kills germs, and leaves your bathroom sparkling clean with a fresh fragrance. 🚿✨🧴"
+    "description": "**Harpic Bathroom Cleaner** – Powerful cleaner that removes tough stains, kills germs, and leaves your bathroom sparkling clean with a fresh fragrance. 🚿✨🧴",
+    "category": "soap"
   },
   {
     "id": "217",
@@ -1821,7 +2037,8 @@
     "bgimg2": "/images/bgsoap30.3.jpeg",
     "name": "Bathroom cleaner",
     "price": 99,
-    "description": "**Bathroom Cleaner** – Effective cleaning solution that removes stains, kills germs, and keeps your bathroom fresh and hygienically clean. 🧼🚿✨"
+    "description": "**Bathroom Cleaner** – Effective cleaning solution that removes stains, kills germs, and keeps your bathroom fresh and hygienically clean. 🧼🚿✨",
+    "category": "soap"
   },
   {
     "id": "218",
@@ -1831,7 +2048,8 @@
     "bgimg2": "/images/bgsoap31.3.jpeg",
     "name": "Dettol Cleaner",
     "price": 75,
-    "description": "**Dettol Cleaner** – Antibacterial surface cleaner that kills 99.9% of germs and leaves your home clean, safe, and fresh-smelling. 🧴🏠✨"
+    "description": "**Dettol Cleaner** – Antibacterial surface cleaner that kills 99.9% of germs and leaves your home clean, safe, and fresh-smelling. 🧴🏠✨",
+    "category": "soap"
   },
   {
     "id": "219",
@@ -1840,7 +2058,8 @@
     "bgimg2": "/images/bgsoap32.3.png",
     "name": "Medimix Neem Soap",
     "price": 75,
-    "description": "**Medimix Neem Soap** – Ayurvedic soap enriched with neem and natural herbs that fights germs, prevents skin problems, and keeps your skin healthy and refreshed. 🌿🧼✨"
+    "description": "**Medimix Neem Soap** – Ayurvedic soap enriched with neem and natural herbs that fights germs, prevents skin problems, and keeps your skin healthy and refreshed. 🌿🧼✨",
+    "category": "soap"
   }
 ],
   "juice": [
@@ -1850,7 +2069,8 @@
     "bgimg": "/images/juice1.1.jpg",
     "name": "Raw jal jeera",
     "price": 40,
-    "description": "**Medimix Neem Soap** – Ayurvedic soap enriched with neem and natural herbs that fights germs, prevents skin problems, and keeps your skin healthy and refreshed. 🌿🧼✨"
+    "description": "**Medimix Neem Soap** – Ayurvedic soap enriched with neem and natural herbs that fights germs, prevents skin problems, and keeps your skin healthy and refreshed. 🌿🧼✨",
+    "category": "juice"
   },
   {
     "id": "221",
@@ -1858,7 +2078,8 @@
     "bgimg": "/images/juice2.1.jpg",
     "name": "Raw drink a salad",
     "price": 35,
-    "description": "**Raw Drink A Salad** – A healthy veggie-packed drink blend that delivers the goodness of fresh salads in a refreshing sip. 🥗🥤✨"
+    "description": "**Raw Drink A Salad** – A healthy veggie-packed drink blend that delivers the goodness of fresh salads in a refreshing sip. 🥗🥤✨",
+    "category": "juice"
   },
   {
     "id": "222",
@@ -1866,7 +2087,8 @@
     "bgimg": "/images/juice3.1.jpg",
     "name": "Raw Berry Health",
     "price": 50,
-    "description": "**Raw Berry Health** – Nutritious fruit drink made from real berries, packed with antioxidants and vitamins for a natural energy boost. 🍓💪✨"
+    "description": "**Raw Berry Health** – Nutritious fruit drink made from real berries, packed with antioxidants and vitamins for a natural energy boost. 🍓💪✨",
+    "category": "juice"
   },
   {
     "id": "223",
@@ -1874,7 +2096,8 @@
     "bgimg": "/images/juice4.1.jpg",
     "name": "Raw OI ABC juice",
     "price": 55,
-    "description": "**Raw Oi ABC Juice** – A revitalizing blend of Apple, Beetroot, and Carrot that boosts immunity, improves skin glow, and energizes your day naturally. 🍎🥕🍠✨"
+    "description": "**Raw Oi ABC Juice** – A revitalizing blend of Apple, Beetroot, and Carrot that boosts immunity, improves skin glow, and energizes your day naturally. 🍎🥕🍠✨",
+    "category": "juice"
   },
   {
     "id": "224",
@@ -1882,7 +2105,8 @@
     "bgimg": "/images/juice5.1.jpg",
     "name": "Raw vit-c Burst",
     "price": 55,
-    "description": "**Raw Vit-C Burst** – A zesty, immune-boosting drink loaded with Vitamin C from real fruits to keep you refreshed and healthy all day. 🍊💧✨"
+    "description": "**Raw Vit-C Burst** – A zesty, immune-boosting drink loaded with Vitamin C from real fruits to keep you refreshed and healthy all day. 🍊💧✨",
+    "category": "juice"
   },
   {
     "id": "225",
@@ -1890,7 +2114,8 @@
     "bgimg": "/images/juice6.1.jpg",
     "name": "Raw Turmeric Twist",
     "price": 40,
-    "description": "**Raw Turmeric Twist** – A rejuvenating drink infused with turmeric, lemon, and spices that boosts immunity and promotes natural healing. 🌿🍋✨"
+    "description": "**Raw Turmeric Twist** – A rejuvenating drink infused with turmeric, lemon, and spices that boosts immunity and promotes natural healing. 🌿🍋✨",
+    "category": "juice"
   },
   {
     "id": "226",
@@ -1898,7 +2123,8 @@
     "bgimg": "/images/juice7.1.jpg",
     "name": "Raw Cold Coffee",
     "price": 50,
-    "description": "**Raw Cold Coffee** – Smooth and refreshing cold brew made with rich coffee and creamy milk for an instant energy boost. ☕❄️✨"
+    "description": "**Raw Cold Coffee** – Smooth and refreshing cold brew made with rich coffee and creamy milk for an instant energy boost. ☕❄️✨",
+    "category": "juice"
   },
   {
     "id": "227",
@@ -1906,7 +2132,8 @@
     "bgimg": "/images/juice8.1.jpg",
     "name": "Raw Refreshers",
     "price": 70,
-    "description": "**Raw Refreshers** – Energizing fruit-based drinks crafted to hydrate, cool, and refresh you with every sip. 🍹💧✨"
+    "description": "**Raw Refreshers** – Energizing fruit-based drinks crafted to hydrate, cool, and refresh you with every sip. 🍹💧✨",
+    "category": "juice"
   },
   {
     "id": "228",
@@ -1914,7 +2141,8 @@
     "bgimg": "/images/juice9.1.jpg",
     "name": "Raw Refreshers Aam Mango",
     "price": 40,
-    "description": "**Raw Refreshers Aam Mango** – Deliciously refreshing mango drink made from real ripe mangoes, delivering the perfect tropical sweetness in every sip. 🥭🥤✨"
+    "description": "**Raw Refreshers Aam Mango** – Deliciously refreshing mango drink made from real ripe mangoes, delivering the perfect tropical sweetness in every sip. 🥭🥤✨",
+    "category": "juice"
   },
   {
     "id": "229",
@@ -1922,7 +2150,8 @@
     "bgimg": "/images/juice10.1.jpg",
     "name": "Raw AAm panna",
     "price": 35,
-    "description": "**Raw Aam Panna** – A tangy and cooling raw mango drink blended with spices, perfect for refreshing your body on hot days. 🥭❄️✨"
+    "description": "**Raw Aam Panna** – A tangy and cooling raw mango drink blended with spices, perfect for refreshing your body on hot days. 🥭❄️✨",
+    "category": "juice"
   },
   {
     "id": "230",
@@ -1930,7 +2159,8 @@
     "bgimg": "/images/juice11.1.jpg",
     "name": "Sepoy&c0 Pink rose Lemon",
     "price": 199,
-    "description": "**Sepoy & Co Pink Rose Lemon** – A delicate fusion of rose and lemon that offers a refreshing floral twist with a zesty citrus finish. 🌹🍋✨"
+    "description": "**Sepoy & Co Pink Rose Lemon** – A delicate fusion of rose and lemon that offers a refreshing floral twist with a zesty citrus finish. 🌹🍋✨",
+    "category": "juice"
   },
   {
     "id": "231",
@@ -1938,7 +2168,8 @@
     "bgimg": "/images/juice12.1.jpg",
     "name": "Swing Gova",
     "price": 30,
-    "description": "**Swing Guava** – A sweet and tangy guava drink bursting with tropical flavor and natural freshness in every sip. 🍈🥤✨"
+    "description": "**Swing Guava** – A sweet and tangy guava drink bursting with tropical flavor and natural freshness in every sip. 🍈🥤✨",
+    "category": "juice"
   },
   {
     "id": "232",
@@ -1946,7 +2177,8 @@
     "bgimg": "/images/juice13.1.jpg",
     "name": "Swing pomegranete",
     "price": 50,
-    "description": "**Swing Pomegranate** – A rich and refreshing juice made from real pomegranates, packed with antioxidants and natural sweetness. 🍷🍎✨"
+    "description": "**Swing Pomegranate** – A rich and refreshing juice made from real pomegranates, packed with antioxidants and natural sweetness. 🍷🍎✨",
+    "category": "juice"
   },
   {
     "id": "233",
@@ -1954,7 +2186,8 @@
     "bgimg": "/images/juice14.1.jpg",
     "name": "Passion Fruit Juice",
     "price": 55,
-    "description": "**Passion Fruit Juice** – A tropical delight with a tangy-sweet flavor that refreshes your senses and boosts your energy naturally. 🥭🌿✨"
+    "description": "**Passion Fruit Juice** – A tropical delight with a tangy-sweet flavor that refreshes your senses and boosts your energy naturally. 🥭🌿✨",
+    "category": "juice"
   },
   {
     "id": "234",
@@ -1962,7 +2195,8 @@
     "bgimg": "/images/juice15.1.jpg",
     "name": "Storia Coconut Water",
     "price": 45,
-    "description": "**Storia Coconut Water** – Naturally hydrating coconut water packed with electrolytes for instant freshness and energy. 🥥💧✨"
+    "description": "**Storia Coconut Water** – Naturally hydrating coconut water packed with electrolytes for instant freshness and energy. 🥥💧✨",
+    "category": "juice"
   },
   {
     "id": "235",
@@ -1970,7 +2204,8 @@
     "bgimg": "/images/juice16.1.jpg",
     "name": "Pluckk Sugarcane juice",
     "price": 50,
-    "description": "**Pluckk Sugarcane Juice** – Pure, refreshing sugarcane juice packed with natural sweetness and instant energy in every sip. 🌾🥤✨"
+    "description": "**Pluckk Sugarcane Juice** – Pure, refreshing sugarcane juice packed with natural sweetness and instant energy in every sip. 🌾🥤✨",
+    "category": "juice"
   },
   {
     "id": "236",
@@ -1978,7 +2213,8 @@
     "bgimg": "/images/juice17.1.jpg",
     "name": "Aashirvaad Badam Milk",
     "price": 59,
-    "description": "**Aashirvaad Badam Milk** – Rich and creamy milk blended with the goodness of almonds for a delicious and nourishing drink. 🥛🌰✨"
+    "description": "**Aashirvaad Badam Milk** – Rich and creamy milk blended with the goodness of almonds for a delicious and nourishing drink. 🥛🌰✨",
+    "category": "juice"
   },
   {
     "id": "237",
@@ -1986,7 +2222,8 @@
     "bgimg": "/images/juice18.1.jpg",
     "name": "Patanjali Amla Juice",
     "price": 99,
-    "description": "**Patanjali Amla Juice** – Natural and healthy juice made from fresh amla, rich in Vitamin C to boost immunity and rejuvenate your body. 🍈💪✨"
+    "description": "**Patanjali Amla Juice** – Natural and healthy juice made from fresh amla, rich in Vitamin C to boost immunity and rejuvenate your body. 🍈💪✨",
+    "category": "juice"
   },
   {
     "id": "238",
@@ -1994,7 +2231,8 @@
     "bgimg": "/images/juice19.1.jpg",
     "name": "Papar boat Lychee juice",
     "price": 40,
-    "description": "**Paper Boat Lychee Juice** – Sweet and refreshing lychee drink made from real fruit, capturing the nostalgic taste of summer in every sip. 🍹🍈✨"
+    "description": "**Paper Boat Lychee Juice** – Sweet and refreshing lychee drink made from real fruit, capturing the nostalgic taste of summer in every sip. 🍹🍈✨",
+    "category": "juice"
   },
   {
     "id": "239",
@@ -2002,7 +2240,8 @@
     "bgimg": "/images/juice20.1.jpg",
     "name": "Slice Mango juice",
     "price": 45,
-    "description": "**Slice Mango Juice** – Thick, rich, and irresistibly sweet mango drink made from real juicy mangoes for a truly tropical delight. 🥭🥤✨"
+    "description": "**Slice Mango Juice** – Thick, rich, and irresistibly sweet mango drink made from real juicy mangoes for a truly tropical delight. 🥭🥤✨",
+    "category": "juice"
   },
   {
     "id": "240",
@@ -2010,7 +2249,8 @@
     "bgimg": "/images/juice21.1.jpg",
     "name": "Swing Lychee",
     "price": 85,
-    "description": "**Swing Lychee** – A luscious and refreshing lychee drink bursting with sweet, tropical flavor in every sip. 🍈🥤✨"
+    "description": "**Swing Lychee** – A luscious and refreshing lychee drink bursting with sweet, tropical flavor in every sip. 🍈🥤✨",
+    "category": "juice"
   },
   {
     "id": "241",
@@ -2018,7 +2258,8 @@
     "bgimg": "/images/juice22.1.jpg",
     "name": "Pulpy Orange",
     "price": 35,
-    "description": "**Pulpy Orange** – Refreshing orange drink with real fruit pulp that gives you the perfect blend of juicy taste and natural goodness. 🍊🥤✨"
+    "description": "**Pulpy Orange** – Refreshing orange drink with real fruit pulp that gives you the perfect blend of juicy taste and natural goodness. 🍊🥤✨",
+    "category": "juice"
   },
   {
     "id": "242",
@@ -2026,7 +2267,8 @@
     "bgimg": "/images/juice23.1.jpg",
     "name": "Tropican Guava Delight",
     "price": 35,
-    "description": "**Tropicana Guava Delight** – A deliciously thick guava juice packed with rich flavor and essential nutrients for a refreshing boost. 🍈🥤✨"
+    "description": "**Tropicana Guava Delight** – A deliciously thick guava juice packed with rich flavor and essential nutrients for a refreshing boost. 🍈🥤✨",
+    "category": "juice"
   },
   {
     "id": "243",
@@ -2034,7 +2276,8 @@
     "bgimg": "/images/juice24.1.jpg",
     "name": "Tropican Mixed friut Delight",
     "price": 25,
-    "description": "**Tropicana Mixed Fruit Delight** – A vibrant blend of juicy fruits that delivers a burst of refreshing flavor and natural energy in every sip. 🍎🍊🥭✨"
+    "description": "**Tropicana Mixed Fruit Delight** – A vibrant blend of juicy fruits that delivers a burst of refreshing flavor and natural energy in every sip. 🍎🍊🥭✨",
+    "category": "juice"
   },
   {
     "id": "244",
@@ -2042,7 +2285,8 @@
     "bgimg": "/images/juice25.1.jpg",
     "name": "Real Grape mix",
     "price": 25,
-    "description": "**Real Grape Mix** – A flavorful blend of juicy grapes and mixed fruits that offers a perfect balance of sweetness and refreshment. 🍇🥤✨"
+    "description": "**Real Grape Mix** – A flavorful blend of juicy grapes and mixed fruits that offers a perfect balance of sweetness and refreshment. 🍇🥤✨",
+    "category": "juice"
   },
   {
     "id": "245",
@@ -2050,7 +2294,8 @@
     "bgimg": "/images/juice26.1.jpg",
     "name": "Del Monte Peach Friut Drink",
     "price": 40,
-    "description": "**Del Monte Peach Fruit Drink** – A smooth and refreshing beverage made with ripe peaches, offering a naturally sweet and juicy flavor. 🍑🥤✨"
+    "description": "**Del Monte Peach Fruit Drink** – A smooth and refreshing beverage made with ripe peaches, offering a naturally sweet and juicy flavor. 🍑🥤✨",
+    "category": "juice"
   },
   {
     "id": "246",
@@ -2058,7 +2303,8 @@
     "bgimg": "/images/juice27.1.jpg",
     "name": "Real litchi",
     "price": 55,
-    "description": "**Real Litchi** – A refreshing fruit drink made from real litchis, offering a sweet, aromatic taste that cools and delights every sip. 🍈🥤✨"
+    "description": "**Real Litchi** – A refreshing fruit drink made from real litchis, offering a sweet, aromatic taste that cools and delights every sip. 🍈🥤✨",
+    "category": "juice"
   },
   {
     "id": "247",
@@ -2066,7 +2312,8 @@
     "bgimg": "/images/juice28.1.jpg",
     "name": "Pokka Carrot Fruit jucie",
     "price": 50,
-    "description": "**Pokka Carrot Fruit Juice** – A nutritious blend of carrot and fruit juices, rich in vitamins and antioxidants for a healthy, refreshing boost. 🥕🍎✨"
+    "description": "**Pokka Carrot Fruit Juice** – A nutritious blend of carrot and fruit juices, rich in vitamins and antioxidants for a healthy, refreshing boost. 🥕🍎✨",
+    "category": "juice"
   },
   {
     "id": "248",
@@ -2074,7 +2321,8 @@
     "bgimg": "/images/juice29.1.jpg",
     "name": "Kapiva Triphala Juice",
     "price": 99,
-    "description": "**Kapiva Triphala Juice** – Ayurvedic herbal juice made from Amla, Haritaki, and Bahera that supports digestion, detoxification, and overall wellness. 🌿🍃✨"
+    "description": "**Kapiva Triphala Juice** – Ayurvedic herbal juice made from Amla, Haritaki, and Bahera that supports digestion, detoxification, and overall wellness. 🌿🍃✨",
+    "category": "juice"
   },
   {
     "id": "249",
@@ -2082,7 +2330,8 @@
     "bgimg": "/images/juice30.1.jpg",
     "name": "Storia Pomegranate Jucie",
     "price": 59,
-    "description": "**Storia Pomegranate Juice** – Delicious and nutritious juice made from real pomegranates, rich in antioxidants for a healthy and refreshing boost. 🍷🍎✨"
+    "description": "**Storia Pomegranate Juice** – Delicious and nutritious juice made from real pomegranates, rich in antioxidants for a healthy and refreshing boost. 🍷🍎✨",
+    "category": "juice"
   },
   {
     "id": "250",
@@ -2090,7 +2339,8 @@
     "bgimg": "/images/juice31.1.jpg",
     "name": "Raw sugarCane Juice",
     "price": 59,
-    "description": "**Raw Sugarcane Juice** – Freshly pressed, natural sugarcane juice that energizes your body and refreshes you with its pure, sweet taste. 🌾🥤✨"
+    "description": "**Raw Sugarcane Juice** – Freshly pressed, natural sugarcane juice that energizes your body and refreshes you with its pure, sweet taste. 🌾🥤✨",
+    "category": "juice"
   },
   {
     "id": "251",
@@ -2098,7 +2348,8 @@
     "bgimg": "/images/juice32.1.jpg",
     "name": "Raw Coconut Water",
     "price": 50,
-    "description": "**Raw Coconut Water** – Naturally hydrating drink packed with electrolytes that refreshes, cools, and revitalizes your body instantly. 🥥💧✨"
+    "description": "**Raw Coconut Water** – Naturally hydrating drink packed with electrolytes that refreshes, cools, and revitalizes your body instantly. 🥥💧✨",
+    "category": "juice"
   }
 ],
   "meat": [
@@ -2107,168 +2358,192 @@
     "img": "/images/meat1.png",
     "name": "Red Snapper 1kg",
     "price": 400,
-    "description": "**Red Snapper Fish** – A flavorful and tender fish known for its mild, sweet taste and firm texture, perfect for grilling or frying. 🐟🔥✨"
+    "description": "**Red Snapper Fish** – A flavorful and tender fish known for its mild, sweet taste and firm texture, perfect for grilling or frying. 🐟🔥✨",
+    "category": "meat"
   },
   {
     "id": "253",
     "img": "/images/meat2.png",
     "name": "Lobster 1kg",
     "price": 1200,
-    "description": "**Lobster** – A luxurious seafood delicacy with tender, juicy meat and a rich, buttery flavor that's perfect for special meals. 🦞🍽️✨"
+    "description": "**L​obster** – A luxurious seafood delicacy with tender, juicy meat and a rich, buttery flavor that's perfect for special meals. 🦞🍽️✨",
+    "category": "meat"
   },
   {
     "id": "254",
     "img": "/images/meat3.png",
     "name": "Trevally Fish (Paarai) 1kg",
     "price": 500,
-    "description": "**Trevally Fish (Paarai)** – A firm and flavorful fish rich in protein, loved for its mildly sweet taste and perfect for frying or curries. 🐟🍛✨"
+    "description": "**Trevally Fish (Paarai)** – A firm and flavorful fish rich in protein, loved for its mildly sweet taste and perfect for frying or curries. 🐟🍛✨",
+    "category": "meat"
   },
   {
     "id": "255",
     "img": "/images/meat4.png",
     "name": "Sardine Fish(salai) 1kg",
     "price": 200,
-    "description": "**Sardine Fish (Salai)** – A small, oily fish packed with omega-3 and nutrients, known for its rich flavor and perfect for spicy curries or fries. 🐟🔥✨"
+    "description": "**Sardine Fish (Salai)** – A small, oily fish packed with omega-3 and nutrients, known for its rich flavor and perfect for spicy curries or fries. 🐟🔥✨",
+    "category": "meat"
   },
   {
     "id": "256",
     "img": "/images/meat5.png",
     "name": "StingRay fish (Tirukai) 1kg",
     "price": 550,
-    "description": "**Stingray Fish (Tirukai)** – A soft, flavorful fish prized in South Indian cuisine for its unique texture and delicious taste in spicy gravies. 🐟🍛✨"
+    "description": "**Stingray Fish (Tirukai)** – A soft, flavorful fish prized in South Indian cuisine for its unique texture and delicious taste in spicy gravies. 🐟🍛✨",
+    "category": "meat"
   },
   {
     "id": "257",
     "img": "/images/meat6.png",
     "name": "Chicken Eggs",
     "price": 7,
-    "description": "**Chicken Eggs** – Nutritious and protein-rich, chicken eggs are versatile and perfect for any meal—boiled, fried, or scrambled. 🥚🍳✨"
+    "description": "**Chicken Eggs** – Nutritious and protein-rich, chicken eggs are versatile and perfect for any meal—boiled, fried, or scrambled. 🥚🍳✨",
+    "category": "meat"
   },
   {
     "id": "258",
     "img": "/images/meat7.png",
     "name": "Quail Eggs",
     "price": 4,
-    "description": "**Quail Egg** – Small but nutrient-dense eggs with a rich flavor, packed with protein, vitamins, and minerals for a healthy boost. 🥚✨🌿"
+    "description": "**Quail Egg** – Small but nutrient-dense eggs with a rich flavor, packed with protein, vitamins, and minerals for a healthy boost. 🥚✨🌿",
+    "category": "meat"
   },
   {
     "id": "259",
     "img": "/images/meat8.png",
     "name": "Quail Meat 1kg",
     "price": 800,
-    "description": "**Quail Meat** – Tender and flavorful lean meat rich in protein and nutrients, known for its delicate taste and health benefits. 🍗✨🌿"
+    "description": "**Quail Meat** – Tender and flavorful lean meat rich in protein and nutrients, known for its delicate taste and health benefits. 🍗✨🌿",
+    "category": "meat"
   },
   {
     "id": "260",
     "img": "/images/meat9.png",
     "name": "Chicken Legpices 1kg",
     "price": 250,
-    "description": "**Chicken Leg Pieces (1kg)** – Juicy and tender chicken cuts perfect for grilling, frying, or making flavorful curries. 🍗🔥✨"
+    "description": "**Chicken Leg Pieces (1kg)** – Juicy and tender chicken cuts perfect for grilling, frying, or making flavorful curries. 🍗🔥✨",
+    "category": "meat"
   },
   {
     "id": "261",
     "img": "/images/meat10.png",
     "name": "BoneLess Chicken 1kg",
     "price": 300,
-    "description": "**Boneless Chicken (1kg)** – Soft, lean, and protein-rich chicken pieces ideal for stir-fries, curries, and grilled dishes. 🍗🥘✨"
+    "description": "**Boneless Chicken (1kg)** – Soft, lean, and protein-rich chicken pieces ideal for stir-fries, curries, and grilled dishes. 🍗🥘✨",
+    "category": "meat"
   },
   {
     "id": "262",
     "img": "/images/meat11.png",
     "name": "Lolipop Chicken 1kg",
     "price": 350,
-    "description": "**Lollipop Chicken (1kg)** – Crispy, juicy chicken drumettes packed with flavor, perfect for parties and spicy starters. 🍗🔥✨"
+    "description": "**Lollipop Chicken (1kg)** – Crispy, juicy chicken drumettes packed with flavor, perfect for parties and spicy starters. 🍗🔥✨",
+    "category": "meat"
   },
   {
     "id": "263",
     "img": "/images/meat12.png",
     "name": "Mutton 1kg",
     "price": 900,
-    "description": "**Mutton (1kg)** – Fresh, tender, and flavorful meat perfect for rich curries, biryanis, and hearty dishes. 🍖🥘✨"
+    "description": "**Mutton (1kg)** – Fresh, tender, and flavorful meat perfect for rich curries, biryanis, and hearty dishes. 🍖🥘✨",
+    "category": "meat"
   },
   {
     "id": "264",
     "img": "/images/meat13.png",
     "name": "Beaf 1kg",
     "price": 400,
-    "description": "**Beef (1kg)** – Rich and hearty meat known for its bold flavor and tenderness, ideal for steaks, curries, and roasts. 🥩🔥✨"
+    "description": "**Beef (1kg)** – Rich and hearty meat known for its bold flavor and tenderness, ideal for steaks, curries, and roasts. 🥩🔥✨",
+    "category": "meat"
   },
   {
     "id": "265",
     "img": "/images/meat14.png",
     "name": "Vangeram fish 1kg",
     "price": 850,
-    "description": "**Vangaram Fish (1kg)** – Firm and flavorful seer fish, prized for its rich taste and perfect texture for frying or grilling. 🐟🔥✨"
+    "description": "**Vangaram Fish (1kg)** – Firm and flavorful seer fish, prized for its rich taste and perfect texture for frying or grilling. 🐟🔥✨",
+    "category": "meat"
   },
   {
     "id": "266",
     "img": "/images/meat15.png",
     "name": "Tilapia 1kg",
     "price": 250,
-    "description": "**Tilapia (1kg)** – Mild-flavored, tender fish rich in protein, perfect for frying, grilling, or making delicious curries. 🐟🥘✨"
+    "description": "**Tilapia (1kg)** – Mild-flavored, tender fish rich in protein, perfect for frying, grilling, or making delicious curries. 🐟🥘✨",
+    "category": "meat"
   },
   {
     "id": "267",
     "img": "/images/meat16.png",
     "name": "Tuna Fish (Soora) 1kg",
     "price": 450,
-    "description": "**Tuna Fish (Soora) 1kg** – Meaty and flavorful fish packed with protein and omega-3, perfect for curries, fries, or grills. 🐟🔥✨"
+    "description": "**Tuna Fish (Soora) 1kg** – Meaty and flavorful fish packed with protein and omega-3, perfect for curries, fries, or grills. 🐟🔥✨",
+    "category": "meat"
   },
   {
     "id": "268",
     "img": "/images/meat17.png",
     "name": "Crab 1kg",
     "price": 1200,
-    "description": "**Crab (1kg)** – Succulent and flavorful seafood delicacy known for its sweet, tender meat, perfect for spicy curries or butter roasts. 🦀🍛✨"
+    "description": "**Crab (1kg)** – Succulent and flavorful seafood delicacy known for its sweet, tender meat, perfect for spicy curries or butter roasts. 🦀🍛✨",
+    "category": "meat"
   },
   {
     "id": "269",
     "img": "/images/meat18.png",
     "name": "Tiger Prawns 1kg",
     "price": 900,
-    "description": "**Tiger Prawns (1kg)** – Large, juicy prawns with a rich, sweet flavor, perfect for grilling, frying, or making delicious curries. 🍤🔥✨"
+    "description": "**Tiger Prawns (1kg)** – Large, juicy prawns with a rich, sweet flavor, perfect for grilling, frying, or making delicious curries. 🍤🔥✨",
+    "category": "meat"
   },
   {
     "id": "270",
     "img": "/images/meat19.png",
     "name": "Empoeror Fish 1kg",
     "price": 550,
-    "description": "**Emperor Fish (1kg)** – Mild, flaky, and delicious fish with a delicate flavor, ideal for frying, grilling, or steaming. 🐟🍋✨"
+    "description": "**Emperor Fish (1kg)** – Mild, flaky, and delicious fish with a delicate flavor, ideal for frying, grilling, or steaming. 🐟🍋✨",
+    "category": "meat"
   },
   {
     "id": "271",
     "img": "/images/meat20.jpg",
     "name": "Chicken Eggs 30",
     "price": 200,
-    "description": "**Chicken Eggs** – Nutritious and protein-rich, chicken eggs are versatile and perfect for any meal—boiled, fried, or scrambled. 🥚🍳✨"
+    "description": "**Chicken Eggs** – Nutritious and protein-rich, chicken eggs are versatile and perfect for any meal—boiled, fried, or scrambled. 🥚🍳✨",
+    "category": "meat"
   },
   {
     "id": "272",
     "img": "/images/meat21.jpg",
     "name": "Chicken Eggs 30",
     "price": 550,
-    "description": "**Chicken Eggs** – Nutritious and protein-rich, chicken eggs are versatile and perfect for any meal—boiled, fried, or scrambled. 🥚🍳✨"
+    "description": "**Chicken Eggs** – Nutritious and protein-rich, chicken eggs are versatile and perfect for any meal—boiled, fried, or scrambled. 🥚🍳✨",
+    "category": "meat"
   },
   {
     "id": "273",
     "img": "/images/meat22.jpg",
     "name": "Quail eggs 18",
     "price": 70,
-    "description": "**Quail Egg** – Small but nutrient-dense eggs with a rich flavor, packed with protein, vitamins, and minerals for a healthy boost. 🥚✨🌿"
+    "description": "**Quail Egg** – Small but nutrient-dense eggs with a rich flavor, packed with protein, vitamins, and minerals for a healthy boost. 🥚✨🌿",
+    "category": "meat"
   },
   {
     "id": "274",
     "img": "/images/meat23.jpg",
     "name": "Quail eggs 18",
     "price": 75,
-    "description": "**Quail Egg** – Small but nutrient-dense eggs with a rich flavor, packed with protein, vitamins, and minerals for a healthy boost. 🥚✨🌿"
+    "description": "**Quail Egg** – Small but nutrient-dense eggs with a rich flavor, packed with protein, vitamins, and minerals for a healthy boost. 🥚✨🌿",
+    "category": "meat"
   },
   {
     "id": "275",
     "img": "/images/meat24.jpg",
     "name": "Duck Eggs 6",
     "price": 120,
-    "description": "**Duck Eggs** – Rich and creamy eggs with a bold flavor, packed with protein and nutrients, perfect for baking or hearty meals. 🥚🍳✨"
+    "description": "**Duck Eggs** – Rich and creamy eggs with a bold flavor, packed with protein and nutrients, perfect for baking or hearty meals. 🥚🍳✨",
+    "category": "meat"
   }
 ],
   "sweet": [
@@ -2277,112 +2552,128 @@
     "img": "/images/sweet1.jpg",
     "name": "Sweet Laddu",
     "price": 250,
-    "description": "Laddu is a traditional Indian sweet made from flour, ghee, and sugar, shaped into soft, round balls It’s rich, aromatic, and melts in your mouth a perfect treat for festivals and celebrations."
+    "description": "Laddu is a traditional Indian sweet made from flour, ghee, and sugar, shaped into soft, round balls It’s rich, aromatic, and melts in your mouth a perfect treat for festivals and celebrations.",
+    "category": "sweet"
   },
   {
     "id": "277",
     "img": "/images/sweet2.jpg",
     "name": "Amul Malai Peda ",
     "price": 300,
-    "description": "Malai Peda is a creamy, melt-in-mouth Indian sweet made from thickened milk and sugar.Soft, rich, and delicately flavored with cardamom, it’s a festive favorite loved by all ages."
+    "description": "Malai Peda is a creamy, melt-in-mouth Indian sweet made from thickened milk and sugar.Soft, rich, and delicately flavored with cardamom, it’s a festive favorite loved by all ages.",
+    "category": "sweet"
   },
   {
     "id": "278",
     "img": "/images/sweet3.jpg",
     "name": "Amul Kaju Katri",
     "price": 500,
-    "description": "Kaju Katli (or Kaju Katri) is a rich Indian sweet made from cashew nuts and sugar, known for its smooth, melt-in-mouth texture. 🌰✨Thin, diamond-shaped, and often topped with silver leaf, it’s a royal treat for every celebration."
+    "description": "Kaju Katli (or Kaju Katri) is a rich Indian sweet made from cashew nuts and sugar, known for its smooth, melt-in-mouth texture. 🌰✨Thin, diamond-shaped, and often topped with silver leaf, it’s a royal treat for every celebration.",
+    "category": "sweet"
   },
   {
     "id": "279",
     "img": "/images/sweet4.jpg",
     "name": "Mysore Pak",
     "price": 499,
-    "description": "Mysore Pak is a classic South Indian sweet made from gram flour, ghee, and sugar, famous for its rich aroma and golden color. ✨🍯It has a soft, crumbly texture that melts in your mouth with every bite. 🍬"
+    "description": "Mysore Pak is a classic South Indian sweet made from gram flour, ghee, and sugar, famous for its rich aroma and golden color. ✨🍯It has a soft, crumbly texture that melts in your mouth with every bite. 🍬",
+    "category": "sweet"
   },
   {
     "id": "280",
     "img": "/images/sweet5.jpg",
     "name": "Jaggery Mysore Pak",
     "price": 399,
-    "description": "Mysore Pak is a classic South Indian sweet made from gram flour, ghee, and sugar, famous for its rich aroma and golden color. ✨🍯It has a soft, crumbly texture that melts in your mouth with every bite. 🍬"
+    "description": "Mysore Pak is a classic South Indian sweet made from gram flour, ghee, and sugar, famous for its rich aroma and golden color. ✨🍯It has a soft, crumbly texture that melts in your mouth with every bite. 🍬",
+    "category": "sweet"
   },
   {
     "id": "281",
     "img": "/images/sweet6.jpg",
     "name": "Motichoor Ghee Laddu",
     "price": 599,
-    "description": "Laddu is a traditional Indian sweet made from flour, ghee, and sugar, shaped into soft, round balls. 🍬It’s rich, aromatic, and melts in your mouth — a perfect treat for festivals and celebrations. ✨"
+    "description": "Laddu is a traditional Indian sweet made from flour, ghee, and sugar, shaped into soft, round balls. 🍬It’s rich, aromatic, and melts in your mouth — a perfect treat for festivals and celebrations. ✨",
+    "category": "sweet"
   },
   {
     "id": "282",
     "img": "/images/sweet7.jpg",
     "name": "Anandh Motichoor Laddu",
     "price": 399,
-    "description": "Laddu is a traditional Indian sweet made from flour, ghee, and sugar, shaped into soft, round balls. 🍬It’s rich, aromatic, and melts in your mouth — a perfect treat for festivals and celebrations. ✨"
+    "description": "Laddu is a traditional Indian sweet made from flour, ghee, and sugar, shaped into soft, round balls. 🍬It’s rich, aromatic, and melts in your mouth — a perfect treat for festivals and celebrations. ✨",
+    "category": "sweet"
   },
   {
     "id": "283",
     "img": "/images/sweet8.jpg",
     "name": "Chikki Til Gud",
     "price": 250,
-    "description": "Sesame Brittles are crunchy, golden sweets made from roasted sesame seeds and melted jaggery or sugar. 🍯✨They’re crisp, nutty, and packed with energy — a perfect traditional winter snack. 🌾🍬"
+    "description": "Sesame Brittles are crunchy, golden sweets made from roasted sesame seeds and melted jaggery or sugar. 🍯✨They’re crisp, nutty, and packed with energy — a perfect traditional winter snack. 🌾🍬",
+    "category": "sweet"
   },
   {
     "id": "284",
     "img": "/images/sweet9.jpg",
     "name": "Anandh Kaju Katli",
     "price": 599,
-    "description": "Kaju Katli (or Kaju Katri) is a rich Indian sweet made from cashew nuts and sugar, known for its smooth, melt-in-mouth texture. 🌰✨Thin, diamond-shaped, and often topped with silver leaf, it’s a royal treat for every celebration. 🍬"
+    "description": "Kaju Katli (or Kaju Katri) is a rich Indian sweet made from cashew nuts and sugar, known for its smooth, melt-in-mouth texture. 🌰✨Thin, diamond-shaped, and often topped with silver leaf, it’s a royal treat for every celebration. 🍬",
+    "category": "sweet"
   },
   {
     "id": "285",
     "img": "/images/sweet10.jpg",
     "name": "Peanut chocolate",
     "price": 59,
-    "description": "Peanut Chocolate is a delightful blend of crunchy roasted peanuts coated in smooth, rich chocolate. 🍫🥜It’s the perfect mix of nutty flavor and creamy sweetness in every bite. 😋✨"
+    "description": "Peanut Chocolate is a delightful blend of crunchy roasted peanuts coated in smooth, rich chocolate. 🍫🥜It’s the perfect mix of nutty flavor and creamy sweetness in every bite. 😋✨",
+    "category": "sweet"
   },
   {
     "id": "286",
     "img": "/images/sweet11.jpg",
     "name": "Anandh Doodh Peda",
     "price": 750,
-    "description": "Doodh Peda is a soft, milky Indian sweet made from condensed milk, sugar, and a touch of cardamom. 🥛🍬Rich, smooth, and deliciously creamy, it’s a festive treat that melts in your mouth. ✨"
+    "description": "Doodh Peda is a soft, milky Indian sweet made from condensed milk, sugar, and a touch of cardamom. 🥛🍬Rich, smooth, and deliciously creamy, it’s a festive treat that melts in your mouth. ✨",
+    "category": "sweet"
   },
   {
     "id": "287",
     "img": "/images/sweet12.jpg",
     "name": "Date Bites",
     "price": 550,
-    "description": "Peanut Chocolate is a delightful blend of crunchy roasted peanuts coated in smooth, rich chocolate. 🍫🥜It’s the perfect mix of nutty flavor and creamy sweetness in every bite. 😋✨"
+    "description": "Peanut Chocolate is a delightful blend of crunchy roasted peanuts coated in smooth, rich chocolate. 🍫🥜It’s the perfect mix of nutty flavor and creamy sweetness in every bite. 😋✨",
+    "category": "sweet"
   },
   {
     "id": "288",
     "img": "/images/sweet13.jpg",
     "name": "GRB Kaju Katli",
     "price": 499,
-    "description": "Kaju Katli (or Kaju Katri) is a rich Indian sweet made from cashew nuts and sugar, known for its smooth, melt-in-mouth texture. 🌰✨Thin, diamond-shaped, and often topped with silver leaf, it’s a royal treat for every celebration. 🍬"
+    "description": "Kaju Katli (or Kaju Katri) is a rich Indian sweet made from cashew nuts and sugar, known for its smooth, melt-in-mouth texture. 🌰✨Thin, diamond-shaped, and often topped with silver leaf, it’s a royal treat for every celebration. 🍬",
+    "category": "sweet"
   },
   {
     "id": "289",
     "img": "/images/sweet14.jpg",
     "name": "MTR Gulab Jamun",
     "price": 199,
-    "description": "Gulab Jamun is a soft, spongy Indian dessert made from milk solids, deep-fried, and soaked in fragrant sugar syrup. 🍯🍮Sweet, juicy, and irresistibly rich, it’s the star of every celebration. ✨"
+    "description": "Gulab Jamun is a soft, spongy Indian dessert made from milk solids, deep-fried, and soaked in fragrant sugar syrup. 🍯🍮Sweet, juicy, and irresistibly rich, it’s the star of every celebration. ✨",
+    "category": "sweet"
   },
   {
     "id": "290",
     "img": "/images/sweet15.jpg",
     "name": "Anandh Mysore pak",
     "price": 299,
-    "description": "Mysore Pak is a classic South Indian sweet made from gram flour, ghee, and sugar, famous for its rich aroma and golden color. ✨🍯It has a soft, crumbly texture that melts in your mouth with every bite. 🍬"
+    "description": "Mysore Pak is a classic South Indian sweet made from gram flour, ghee, and sugar, famous for its rich aroma and golden color. ✨🍯It has a soft, crumbly texture that melts in your mouth with every bite. 🍬",
+    "category": "sweet"
   },
   {
     "id": "291",
     "img": "/images/sweet16.jpg",
     "name": "Anandh Royal Rasgulla",
     "price": 499,
-    "description": "Rasgulla is a spongy, syrupy Bengali sweet made from soft chenna (cottage cheese) balls soaked in light sugar syrup. 🍯🥣Delicate, juicy, and refreshingly sweet, it melts in your mouth with every bite. ✨"
+    "description": "Rasgulla is a spongy, syrupy Bengali sweet made from soft chenna (cottage cheese) balls soaked in light sugar syrup. 🍯🥣Delicate, juicy, and refreshingly sweet, it melts in your mouth with every bite. ✨",
+    "category": "sweet"
   }
 ],
   "cake": [
@@ -2391,112 +2682,128 @@
     "img": "/images/cake1.jpg",
     "name": "white Forest Cake",
     "price": 599,
-    "description": "White Forest Cake is a light, fluffy dessert layered with vanilla sponge, whipped cream, and white chocolate shavings. 🍰🤍,Topped with cherries and a creamy finish, it’s a perfect blend of elegance and sweetness. ✨🍒"
+    "description": "White Forest Cake is a light, fluffy dessert layered with vanilla sponge, whipped cream, and white chocolate shavings. 🍰🤍,Topped with cherries and a creamy finish, it’s a perfect blend of elegance and sweetness. ✨🍒",
+    "category": "cake"
   },
   {
     "id": "293",
     "img": "/images/cake2.jpg",
     "name": "Red velvet Cake",
     "price": 799,
-    "description": "Red Velvet Cake is a soft, moist dessert with a rich cocoa flavor and a signature deep red color. ❤️🍰Layered with smooth cream cheese frosting, it’s a perfect mix of elegance, sweetness, and luxury. ✨"
+    "description": "Red Velvet Cake is a soft, moist dessert with a rich cocoa flavor and a signature deep red color. ❤️🍰Layered with smooth cream cheese frosting, it’s a perfect mix of elegance, sweetness, and luxury. ✨",
+    "category": "cake"
   },
   {
     "id": "294",
     "img": "/images/cake3.jpg",
     "name": "Britannia Double Choco Chip Cake",
     "price": 899,
-    "description": "Choco Chip Cake is a moist, fluffy treat loaded with rich chocolate chips in every bite. 🍫🍰Sweet, soft, and irresistibly chocolaty, it’s a perfect delight for all chocolate lovers. ✨"
+    "description": "Choco Chip Cake is a moist, fluffy treat loaded with rich chocolate chips in every bite. 🍫🍰Sweet, soft, and irresistibly chocolaty, it’s a perfect delight for all chocolate lovers. ✨",
+    "category": "cake"
   },
   {
     "id": "295",
     "img": "/images/cake4.jpg",
     "name": "Havmoi Chocolate Cake",
     "price": 450,
-    "description": "Chocolate Cake is a moist, fluffy treat loaded with rich chocolate chips in every bite. 🍫🍰Sweet, soft, and irresistibly chocolaty, it’s a perfect delight for all chocolate lovers."
+    "description": "Chocolate Cake is a moist, fluffy treat loaded with rich chocolate chips in every bite. 🍫🍰Sweet, soft, and irresistibly chocolaty, it’s a perfect delight for all chocolate lovers.",
+    "category": "cake"
   },
   {
     "id": "296",
     "img": "/images/cake5.jpg",
     "name": "Unibic Vanilla Cake",
     "price": 350,
-    "description": "Vanilla Cake is a classic, soft, and fluffy dessert infused with the sweet aroma of pure vanilla. 🍰🌼Light, creamy, and timelessly delicious — perfect for any celebration or tea-time treat. ✨"
+    "description": "Vanilla Cake is a classic, soft, and fluffy dessert infused with the sweet aroma of pure vanilla. 🍰🌼Light, creamy, and timelessly delicious — perfect for any celebration or tea-time treat. ✨",
+    "category": "cake"
   },
   {
     "id": "297",
     "img": "/images/cake6.jpg",
     "name": "Cream Cake",
     "price": 599,
-    "description": "Cream Cake is a soft, spongy dessert layered with rich, fluffy whipped cream and delicate sweetness. 🍰🤍Light, smooth, and melt-in-mouth, it’s a perfect choice for any joyful occasion. ✨"
+    "description": "Cream Cake is a soft, spongy dessert layered with rich, fluffy whipped cream and delicate sweetness. 🍰🤍Light, smooth, and melt-in-mouth, it’s a perfect choice for any joyful occasion. ✨",
+    "category": "cake"
   },
   {
     "id": "298",
     "img": "/images/cake7.jpg",
     "name": "Golden Treats",
     "price": 259,
-    "description": "Cream Cake is a soft, spongy dessert layered with rich, fluffy whipped cream and delicate sweetness. 🍰🤍Light, smooth, and melt-in-mouth, it’s a perfect choice for any joyful occasion. ✨"
+    "description": "Cream Cake is a soft, spongy dessert layered with rich, fluffy whipped cream and delicate sweetness. 🍰🤍Light, smooth, and melt-in-mouth, it’s a perfect choice for any joyful occasion. ✨",
+    "category": "cake"
   },
   {
     "id": "299",
     "img": "/images/cake8.jpg",
     "name": "Rich Plum Cake",
     "price": 299,
-    "description": "Plum Cake is a rich, moist dessert made with dried fruits, nuts, and warm spices soaked in syrup or rum. 🍇🍰Fragrant, flavorful, and festive — it’s the perfect treat for Christmas and celebrations. ✨"
+    "description": "Plum Cake is a rich, moist dessert made with dried fruits, nuts, and warm spices soaked in syrup or rum. 🍇🍰Fragrant, flavorful, and festive — it’s the perfect treat for Christmas and celebrations. ✨",
+    "category": "cake"
   },
   {
     "id": "300",
     "img": "/images/cake9.jpg",
     "name": "Nuts Cake",
     "price": 799,
-    "description": "Nuts Cake is a deliciously moist and crunchy dessert packed with a mix of roasted nuts and subtle sweetness. 🍰🥜Rich in flavor and texture, it’s the perfect treat for nut lovers and festive occasions. ✨"
+    "description": "Nuts Cake is a deliciously moist and crunchy dessert packed with a mix of roasted nuts and subtle sweetness. 🍰🥜Rich in flavor and texture, it’s the perfect treat for nut lovers and festive occasions. ✨",
+    "category": "cake"
   },
   {
     "id": "301",
     "img": "/images/cake10.jpg",
     "name": "Theobroma Christhmas Special Cake ",
     "price": 459,
-    "description": "Plum Cake is a rich, moist dessert made with dried fruits, nuts, and warm spices soaked in syrup or rum. 🍇🍰Fragrant, flavorful, and festive — it’s the perfect treat for Christmas and celebrations. ✨"
+    "description": "Plum Cake is a rich, moist dessert made with dried fruits, nuts, and warm spices soaked in syrup or rum. 🍇🍰Fragrant, flavorful, and festive — it’s the perfect treat for Christmas and celebrations. ✨",
+    "category": "cake"
   },
   {
     "id": "302",
     "img": "/images/cake11.jpg",
     "name": "Black forest Cake",
     "price": 599,
-    "description": "Black Forest Cake is a decadent dessert made with layers of chocolate sponge, whipped cream, and juicy cherries. 🍒🍫Topped with chocolate shavings and a cherry crown, it’s a timeless symbol of indulgence and celebration. ✨"
+    "description": "Black Forest Cake is a decadent dessert made with layers of chocolate sponge, whipped cream, and juicy cherries. 🍒🍫Topped with chocolate shavings and a cherry crown, it’s a timeless symbol of indulgence and celebration. ✨",
+    "category": "cake"
   },
   {
     "id": "303",
     "img": "/images/cake12.jpg",
     "name": "Big White Forest Cake",
     "price": 1599,
-    "description": "White Forest Cake is a light, fluffy dessert layered with vanilla sponge, whipped cream, and white chocolate shavings. 🍰🤍Topped with cherries and a creamy finish, it’s a perfect blend of elegance and sweetness. ✨🍒"
+    "description": "White Forest Cake is a light, fluffy dessert layered with vanilla sponge, whipped cream, and white chocolate shavings. 🍰🤍Topped with cherries and a creamy finish, it’s a perfect blend of elegance and sweetness. ✨🍒",
+    "category": "cake"
   },
   {
     "id": "304",
     "img": "/images/cake13.jpg",
     "name": "vannila Cake",
     "price": 699,
-    "description": "Vanilla Cake is a classic, soft, and fluffy dessert infused with the sweet aroma of pure vanilla. 🍰🌼Light, creamy, and timelessly delicious — perfect for any celebration or tea-time treat. ✨"
+    "description": "Vanilla Cake is a classic, soft, and fluffy dessert infused with the sweet aroma of pure vanilla. 🍰🌼Light, creamy, and timelessly delicious — perfect for any celebration or tea-time treat. ✨",
+    "category": "cake"
   },
   {
     "id": "305",
     "img": "/images/cake14.jpg",
     "name": "Plum Cake",
     "price": 999,
-    "description": "Plum Cake is a rich, moist dessert made with dried fruits, nuts, and warm spices soaked in syrup or rum. 🍇🍰Fragrant, flavorful, and festive — it’s the perfect treat for Christmas and celebrations. ✨"
+    "description": "Plum Cake is a rich, moist dessert made with dried fruits, nuts, and warm spices soaked in syrup or rum. 🍇🍰Fragrant, flavorful, and festive — it’s the perfect treat for Christmas and celebrations. ✨",
+    "category": "cake"
   },
   {
     "id": "306",
     "img": "/images/cake15.jpg",
     "name": "Chocolate cake",
     "price": 799,
-    "description": "Chocolate Cake is a rich, moist dessert made with layers of soft chocolate sponge and creamy frosting. 🍫🍰Deeply indulgent and full of flavor, it’s a classic favorite for every chocolate lover. ✨"
+    "description": "Chocolate Cake is a rich, moist dessert made with layers of soft chocolate sponge and creamy frosting. 🍫🍰Deeply indulgent and full of flavor, it’s a classic favorite for every chocolate lover. ✨",
+    "category": "cake"
   },
   {
     "id": "307",
     "img": "/images/cake16.jpg",
     "name": "Double Layer Chocolate Cake",
     "price": 1200,
-    "description": "Chocolate Cake is a rich, moist dessert made with layers of soft chocolate sponge and creamy frosting. 🍫🍰Deeply indulgent and full of flavor, it’s a classic favorite for every chocolate lover. ✨"
+    "description": "Chocolate Cake is a rich, moist dessert made with layers of soft chocolate sponge and creamy frosting. 🍫🍰Deeply indulgent and full of flavor, it’s a classic favorite for every chocolate lover. ✨",
+    "category": "cake"
   }
 ],
   "roll": [
@@ -2507,7 +2814,8 @@
     "bgimg1": "/images/roll1.2.jpg",
     "name": "Aashirvaad Atta",
     "price": 130,
-    "description": "Aashirvaad Atta is a premium whole wheat flour made from the finest grains, ensuring soft and fluffy rotis every time. 🌾🥖Rich in fiber and nutrients, it delivers both taste and health in every bite. 💪✨ "
+    "description": "Aashirvaad Atta is a premium whole wheat flour made from the finest grains, ensuring soft and fluffy rotis every time. 🌾🥖Rich in fiber and nutrients, it delivers both taste and health in every bite. 💪✨ ",
+    "category": "roll"
   },
   {
     "id": "309",
@@ -2516,7 +2824,8 @@
     "bgimg1": "/images/roll2.2.jpg",
     "name": "Aashirvaad Ragi Flour",
     "price": 45,
-    "description": "Ragi Flour is a highly nutritious flour made from finger millet, known for its rich calcium and fiber content. 🌾💪It’s a wholesome, earthy ingredient perfect for making healthy dosas, rotis, and porridge. 🍽️✨"
+    "description": "Ragi Flour is a highly nutritious flour made from finger millet, known for its rich calcium and fiber content. 🌾💪It’s a wholesome, earthy ingredient perfect for making healthy dosas, rotis, and porridge. 🍽️✨",
+    "category": "roll"
   },
   {
     "id": "310",
@@ -2525,7 +2834,8 @@
     "bgimg1": "/images/roll3.2.jpg",
     "name": "Naga Sooji Rava",
     "price": 35,
-    "description": "Naga Sooji Rava is a fine, premium-quality semolina made from the best wheat grains. 🌾✨Ideal for making soft upma, crispy dosas, and delicious halwa, it brings perfect texture and taste to every dish. 🍛🍰"
+    "description": "Naga Sooji Rava is a fine, premium-quality semolina made from the best wheat grains. 🌾✨Ideal for making soft upma, crispy dosas, and delicious halwa, it brings perfect texture and taste to every dish. 🍛🍰",
+    "category": "roll"
   },
   {
     "id": "311",
@@ -2533,7 +2843,8 @@
     "bgimg": "/images/roll4.1.jpg",
     "name": "India Gate Pure Basmati Rice",
     "price": 99,
-    "description": "India Gate Basmati Rice is a premium, long-grain rice known for its rich aroma, fluffy texture, and exquisite taste. 🍚✨Perfect for biryanis and special meals, it turns every dish into a royal experience. 👑🍽️"
+    "description": "India Gate Basmati Rice is a premium, long-grain rice known for its rich aroma, fluffy texture, and exquisite taste. 🍚✨Perfect for biryanis and special meals, it turns every dish into a royal experience. 👑🍽️",
+    "category": "roll"
   },
   {
     "id": "312",
@@ -2541,7 +2852,8 @@
     "bgimg": "/images/roll5.1.jpg",
     "name": "Parrys White Sugar",
     "price": 60,
-    "description": "Parry’s White Sugar is a pure, fine-grained sugar that dissolves easily and sweetens every dish perfectly. 🍬✨Clean, crystal-clear, and consistent in quality, it’s ideal for cooking, baking, and beverages. ☕🍰 "
+    "description": "Parry’s White Sugar is a pure, fine-grained sugar that dissolves easily and sweetens every dish perfectly. 🍬✨Clean, crystal-clear, and consistent in quality, it’s ideal for cooking, baking, and beverages. ☕🍰 ",
+    "category": "roll"
   },
   {
     "id": "313",
@@ -2549,7 +2861,8 @@
     "bgimg": "/images/roll6.1.jpg",
     "name": "3Roses Tea Powder",
     "price": 109,
-    "description": "3 Roses Tea Powder is a premium blend of handpicked tea leaves that deliver rich color, strong taste, and refreshing aroma. ☕🌹Every sip energizes you with perfect strength and smoothness — just the way tea should be. ✨ "
+    "description": "3 Roses Tea Powder is a premium blend of handpicked tea leaves that deliver rich color, strong taste, and refreshing aroma. ☕🌹Every sip energizes you with perfect strength and smoothness — just the way tea should be. ✨ ",
+    "category": "roll"
   },
   {
     "id": "314",
@@ -2557,7 +2870,8 @@
     "bgimg": "/images/roll7.1.jpg",
     "name": "Anil Rosterd Short Vermicelli",
     "price": 25,
-    "description": "Anil Roasted Short Vermicelli is a golden, pre-roasted vermicelli made from high-quality wheat for quick and easy cooking. 🍝✨Perfect for making delicious upma, kheer, or savory snacks with authentic homemade taste. 🍛🥄"
+    "description": "Anil Roasted Short Vermicelli is a golden, pre-roasted vermicelli made from high-quality wheat for quick and easy cooking. 🍝✨Perfect for making delicious upma, kheer, or savory snacks with authentic homemade taste. 🍛🥄",
+    "category": "roll"
   },
   {
     "id": "315",
@@ -2565,7 +2879,8 @@
     "bgimg": "/images/roll8.1.jpg",
     "name": "Maggie ",
     "price": 25,
-    "description": "Maggi is a popular instant noodle brand loved for its quick cooking and signature masala flavor. 🍜✨Ready in just 2 minutes, it’s the perfect comfort food for a tasty and satisfying meal anytime. 😋 "
+    "description": "Maggi is a popular instant noodle brand loved for its quick cooking and signature masala flavor. 🍜✨Ready in just 2 minutes, it’s the perfect comfort food for a tasty and satisfying meal anytime. 😋 ",
+    "category": "roll"
   },
   {
     "id": "316",
@@ -2573,7 +2888,8 @@
     "bgimg": "/images/roll9.1.jpg",
     "name": "Maggie Family Pack",
     "price": 159,
-    "description": "Maggi is a popular instant noodle brand loved for its quick cooking and signature masala flavor. 🍜✨Ready in just 2 minutes, it’s the perfect comfort food for a tasty and satisfying meal anytime. 😋🔥"
+    "description": "Maggi is a popular instant noodle brand loved for its quick cooking and signature masala flavor. 🍜✨Ready in just 2 minutes, it’s the perfect comfort food for a tasty and satisfying meal anytime. 😋🔥",
+    "category": "roll"
   },
   {
     "id": "317",
@@ -2581,7 +2897,8 @@
     "bgimg": "/images/roll10.1.jpg",
     "name": "Yippee Noodels",
     "price": 99,
-    "description": "Yippee! Noodles are long, non-sticky, and deliciously flavored instant noodles made from quality wheat. 🍜😋With its unique round shape and tasty masala, it’s a fun and flavorful meal for all ages. ✨🔥"
+    "description": "Yippee! Noodles are long, non-sticky, and deliciously flavored instant noodles made from quality wheat. 🍜😋With its unique round shape and tasty masala, it’s a fun and flavorful meal for all ages. ✨🔥",
+    "category": "roll"
   },
   {
     "id": "318",
@@ -2589,7 +2906,8 @@
     "bgimg": "/images/roll11.1.jpg",
     "name": "Stay Free ",
     "price": 99,
-    "description": "Stayfree is a trusted feminine hygiene brand offering soft, comfortable, and highly absorbent sanitary pads. 🌸💧Designed for all-day freshness and protection, it helps women feel confident and carefree. ✨ "
+    "description": "Stayfree is a trusted feminine hygiene brand offering soft, comfortable, and highly absorbent sanitary pads. 🌸💧Designed for all-day freshness and protection, it helps women feel confident and carefree. ✨ ",
+    "category": "roll"
   },
   {
     "id": "319",
@@ -2597,7 +2915,8 @@
     "bgimg": "/images/roll12.1.jpg",
     "name": "Pampers Premium Care",
     "price": 129,
-    "description": "Pampers is a leading baby care brand known for its ultra-soft, absorbent, and comfortable diapers. 👶💧They keep babies dry, happy, and protected for hours — ensuring peaceful sleep and smiles all day. 🌙😊"
+    "description": "Pampers is a leading baby care brand known for its ultra-soft, absorbent, and comfortable diapers. 👶💧They keep babies dry, happy, and protected for hours — ensuring peaceful sleep and smiles all day. 🌙😊",
+    "category": "roll"
   },
   {
     "id": "320",
@@ -2605,14 +2924,16 @@
     "bgimg": "/images/roll13.1.jpg",
     "name": "Bisleri 10L Water",
     "price": 99,
-    "description": "Bisleri Water is pure, safe, and refreshing packaged drinking water trusted across India. 💧✨Known for its consistent quality and mineral balance, it keeps you hydrated and healthy anytime, anywhere. 🚰🌿 "
+    "description": "Bisleri Water is pure, safe, and refreshing packaged drinking water trusted across India. 💧✨Known for its consistent quality and mineral balance, it keeps you hydrated and healthy anytime, anywhere. 🚰🌿 ",
+    "category": "roll"
   },
   {
     "id": "321",
     "img": "/images/roll14.jpg",
     "name": "Naga Wheat Flour (Maida)",
     "price": 50,
-    "description": "Naga Wheat Flour (Maida) is a finely milled, high-quality refined wheat flour perfect for soft, fluffy, and delicious baked goods. 🍞✨Ideal for cakes, pastries, and parottas, it adds smooth texture and great taste to every recipe. 🍰🥐"
+    "description": "Naga Wheat Flour (Maida) is a finely milled, high-quality refined wheat flour perfect for soft, fluffy, and delicious baked goods. 🍞✨Ideal for cakes, pastries, and parottas, it adds smooth texture and great taste to every recipe. 🍰🥐",
+    "category": "roll"
   },
   {
     "id": "322",
@@ -2620,7 +2941,8 @@
     "bgimg": "/images/roll15.1.jpg",
     "name": "Grocery Dry Fruit",
     "price": 499,
-    "description": "Healthy Nuts"
+    "description": "Healthy Nuts",
+    "category": "roll"
   },
   {
     "id": "323",
@@ -2628,7 +2950,8 @@
     "bgimg": "/images/roll16.1.jpg",
     "name": "Grocery Badam",
     "price": 599,
-    "description": "Healthy Badam"
+    "description": "Healthy Badam",
+    "category": "roll"
   }
 ],
   "user": [
@@ -2753,5 +3076,5 @@
       "mail": "raj@mail.com",
       "password": "$2b$10$hIL2adqK18RcGB4k2aM2/u8EG.ciMaDJsVH4FXb8C80nEjpuLnpvu"
     }
-  ]
+]
 }
