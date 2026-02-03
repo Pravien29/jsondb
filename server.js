@@ -1,7 +1,7 @@
 import jsonServer from "json-server";
 
 const server = jsonServer.create();
-const router = jsonServer.router("cart.json");  // your json file name
+const router = jsonServer.router("news.json"); 
 const middlewares = jsonServer.defaults();
 
 const PORT = process.env.PORT || 4000;
